@@ -1,0 +1,249 @@
+{
+  "coverage": {
+    "first_day": "2017-01-01",
+    "last_day": "2018-01-01",
+    "households": 2469,
+    "baskets": 155848,
+    "stores": 457,
+    "products_sold": 68509,
+    "total_sales": 4596040.0
+  },
+  "households_under_5_baskets": 120,
+  "avg_basket_value": 29.49,
+  "avg_lines_per_basket": 9.4,
+  "avg_weekly_sales": 88328.0,
+  "top_category": {
+    "product_category": "SOFT DRINKS",
+    "revenue": 182126.0
+  },
+  "rfm_segments": [
+    {
+      "segment": "Champions",
+      "households": 463,
+      "share_of_households": 0.197,
+      "share_of_spend": 0.43,
+      "avg_spend": 4262.77
+    },
+    {
+      "segment": "Loyal regulars",
+      "households": 608,
+      "share_of_households": 0.259,
+      "share_of_spend": 0.28,
+      "avg_spend": 2113.519
+    },
+    {
+      "segment": "At risk",
+      "households": 337,
+      "share_of_households": 0.144,
+      "share_of_spend": 0.161,
+      "avg_spend": 2186.205
+    },
+    {
+      "segment": "Lapsed",
+      "households": 601,
+      "share_of_households": 0.256,
+      "share_of_spend": 0.073,
+      "avg_spend": 558.652
+    },
+    {
+      "segment": "New or occasional",
+      "households": 187,
+      "share_of_households": 0.08,
+      "share_of_spend": 0.032,
+      "avg_spend": 779.293
+    },
+    {
+      "segment": "Middle of the road",
+      "households": 152,
+      "share_of_households": 0.065,
+      "share_of_spend": 0.024,
+      "avg_spend": 714.386
+    }
+  ],
+  "did": {
+    "campaigns_tested": 19,
+    "significant_positive": 0,
+    "best": {
+      "campaign_id": 4,
+      "campaign_type": "Type B",
+      "did_per_week": 6.054886440849225,
+      "lift_pct": 8.975884872719158,
+      "p_value": 0.1643264362511252,
+      "targeted_hh": 78
+    },
+    "worst": {
+      "campaign_id": 10,
+      "campaign_type": "Type B",
+      "did_per_week": -5.36526396432514,
+      "lift_pct": -6.463649406628686,
+      "p_value": 0.22513273878568985
+    },
+    "by_type": [
+      {
+        "campaign_type": "Type A",
+        "campaigns": 3.0,
+        "avg_did_per_week": -0.528,
+        "avg_lift_pct": -0.864,
+        "significant_campaigns": 0.0
+      },
+      {
+        "campaign_type": "Type B",
+        "campaigns": 13.0,
+        "avg_did_per_week": -1.649,
+        "avg_lift_pct": -2.072,
+        "significant_campaigns": 0.0
+      },
+      {
+        "campaign_type": "Type C",
+        "campaigns": 3.0,
+        "avg_did_per_week": 2.556,
+        "avg_lift_pct": 3.142,
+        "significant_campaigns": 0.0
+      }
+    ],
+    "median_lift_pct": -0.985788837296645,
+    "placebo_tests": 19,
+    "placebo_significant": 0,
+    "placebo_mean_abs_did": 2.5438647068742486
+  },
+  "coupons": {
+    "lines": 16530,
+    "already_buyer_share": 0.1482758620689655,
+    "coupon_cost_on_existing_buyers": 2907.72,
+    "coupon_cost_total": 17596.42,
+    "top_categories": [
+      {
+        "product_category": "SOFT DRINKS",
+        "coupon_lines": 844,
+        "already_buyer_rate": 0.294,
+        "coupon_cost": 2223.97
+      },
+      {
+        "product_category": "CIGARETTES",
+        "coupon_lines": 222,
+        "already_buyer_rate": 0.405,
+        "coupon_cost": 806.96
+      },
+      {
+        "product_category": "DIAPERS & DISPOSABLES",
+        "coupon_lines": 287,
+        "already_buyer_rate": 0.146,
+        "coupon_cost": 481.48
+      },
+      {
+        "product_category": "AIR CARE",
+        "coupon_lines": 242,
+        "already_buyer_rate": 0.045,
+        "coupon_cost": 477.96
+      },
+      {
+        "product_category": "DOG FOODS",
+        "coupon_lines": 254,
+        "already_buyer_rate": 0.169,
+        "coupon_cost": 476.21
+      }
+    ]
+  },
+  "basket_halo": {
+    "households": 1382,
+    "full_price_spend_no_promo": 10.277026007922505,
+    "full_price_spend_with_promo": 15.323222418749722,
+    "mean_within_household_diff": 5.0461964108272195,
+    "share_households_positive": 0.7279305354558611
+  },
+  "discount_dependence_top": [
+    {
+      "product_category": "SOFT DRINKS",
+      "revenue": 182124.0,
+      "pct_units_on_discount": 70.6,
+      "discount_cost": 60932.0
+    },
+    {
+      "product_category": "BEEF",
+      "revenue": 176615.0,
+      "pct_units_on_discount": 54.8,
+      "discount_cost": 39135.0
+    },
+    {
+      "product_category": "CHICKEN",
+      "revenue": 52703.0,
+      "pct_units_on_discount": 72.9,
+      "discount_cost": 34376.0
+    },
+    {
+      "product_category": "FLUID MILK PRODUCTS",
+      "revenue": 116361.0,
+      "pct_units_on_discount": 60.3,
+      "discount_cost": 27904.0
+    },
+    {
+      "product_category": "CHEESE",
+      "revenue": 107012.0,
+      "pct_units_on_discount": 80.3,
+      "discount_cost": 26645.0
+    }
+  ],
+  "basket": {
+    "baskets_analysed": 137138,
+    "categories": 154,
+    "rules": 6647,
+    "top_pairs": [
+      {
+        "antecedents": "Dry Noodles/Pasta",
+        "consequents": "Pasta Sauce",
+        "support": 0.026,
+        "confidence": 0.451,
+        "lift": 9.579
+      },
+      {
+        "antecedents": "Cheeses",
+        "consequents": "Deli Meats",
+        "support": 0.03,
+        "confidence": 0.632,
+        "lift": 9.054
+      },
+      {
+        "antecedents": "Onions",
+        "consequents": "Peppers-All",
+        "support": 0.014,
+        "confidence": 0.224,
+        "lift": 6.489
+      },
+      {
+        "antecedents": "Bath Tissues",
+        "consequents": "Paper Towels",
+        "support": 0.015,
+        "confidence": 0.274,
+        "lift": 6.371
+      },
+      {
+        "antecedents": "Carrots",
+        "consequents": "Vegetables - All Others",
+        "support": 0.014,
+        "confidence": 0.414,
+        "lift": 6.047
+      },
+      {
+        "antecedents": "Tomatoes",
+        "consequents": "Vegetables Salad",
+        "support": 0.017,
+        "confidence": 0.258,
+        "lift": 5.959
+      },
+      {
+        "antecedents": "Peppers-All",
+        "consequents": "Vegetables - All Others",
+        "support": 0.014,
+        "confidence": 0.403,
+        "lift": 5.888
+      },
+      {
+        "antecedents": "Dry Sauces/Gravy",
+        "consequents": "Vegetables - Shelf Stable",
+        "support": 0.014,
+        "confidence": 0.54,
+        "lift": 5.867
+      }
+    ]
+  }
+}

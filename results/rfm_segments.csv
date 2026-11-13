@@ -1,0 +1,7 @@
+segment,households,avg_recency_days,avg_baskets,avg_spend,total_spend,share_of_households,share_of_spend,in_plain_english
+Champions,463,0.65,142.832,4262.77,1973662.36,0.197,0.43,"Shop every few days, spend the most, still active. Protect them; don't discount to them by default."
+Loyal regulars,608,2.972,77.324,2113.519,1285019.7,0.259,0.28,"Weekly-ish shoppers with solid spend. The core of the business; upsell, not acquire."
+At risk,337,21.855,71.846,2186.205,736751.03,0.144,0.161,Used to shop often but haven't been seen lately. Worth a win-back coupon now.
+Lapsed,601,43.401,17.631,558.652,335750.1,0.256,0.073,Rare and not recent. Cheapest to let go; low return on promotional spend.
+New or occasional,187,1.123,22.941,779.293,145727.75,0.08,0.032,"Seen recently but rarely. Either new, or a top-up shopper using another main store."
+Middle of the road,152,6.237,21.243,714.386,108586.7,0.065,0.024,Average on all three measures. Best target for 'complete the basket' offers.

@@ -1,0 +1,2349 @@
+household_id,recency_days,frequency,monetary,r_score,f_score,m_score,segment
+1433,0.0,5,43.6,5,1,1,New or occasional
+1771,0.0,6,336.57,5,1,1,New or occasional
+76,0.0,9,164.88,5,1,1,New or occasional
+2383,0.0,9,212.71,5,1,1,New or occasional
+1867,0.0,9,327.45,5,1,1,New or occasional
+2136,0.0,11,883.74,5,1,2,New or occasional
+1099,0.0,12,219.9,5,1,1,New or occasional
+1177,0.0,13,257.4,5,1,1,New or occasional
+759,0.0,13,398.67,5,1,1,New or occasional
+1107,0.0,13,510.08,5,1,2,New or occasional
+481,0.0,13,771.55,5,1,2,New or occasional
+1493,0.0,14,312.33,5,1,1,New or occasional
+2362,0.0,15,166.21,5,1,1,New or occasional
+1213,0.0,15,215.36,5,1,1,New or occasional
+1909,0.0,15,416.37,5,1,1,New or occasional
+1755,0.0,15,444.13,5,1,1,New or occasional
+1565,0.0,16,231.44,5,1,1,New or occasional
+700,0.0,16,1633.49,5,1,3,New or occasional
+525,0.0,17,349.81,5,1,1,New or occasional
+664,0.0,17,475.81,5,1,2,New or occasional
+1846,0.0,17,595.0,5,1,2,New or occasional
+981,0.0,17,797.16,5,1,2,New or occasional
+1415,0.0,18,169.66,5,1,1,New or occasional
+1918,0.0,18,837.57,5,1,2,New or occasional
+2408,0.0,18,1381.48,5,1,3,New or occasional
+2458,0.0,19,423.54,5,1,1,New or occasional
+1252,0.0,19,566.65,5,1,2,New or occasional
+980,0.0,19,954.63,5,2,2,New or occasional
+2368,0.0,19,965.28,5,2,3,New or occasional
+1281,0.0,20,345.7,5,2,1,New or occasional
+2044,0.0,20,436.59,5,2,1,New or occasional
+70,0.0,21,48.04,5,2,1,New or occasional
+1244,0.0,21,359.88,5,2,1,New or occasional
+1152,0.0,21,422.6,5,2,1,New or occasional
+1608,0.0,21,753.75,5,2,2,New or occasional
+1405,0.0,22,1142.85,5,2,3,New or occasional
+1302,0.0,23,476.46,5,2,2,New or occasional
+1054,0.0,23,531.11,5,2,2,New or occasional
+977,0.0,23,667.9,5,2,2,New or occasional
+128,0.0,23,681.29,5,2,2,New or occasional
+2216,0.0,24,337.73,5,2,1,New or occasional
+1201,0.0,24,344.29,5,2,1,New or occasional
+2415,0.0,24,401.61,5,2,1,New or occasional
+1702,0.0,24,1620.45,5,2,3,New or occasional
+753,0.0,25,1197.67,5,2,3,New or occasional
+2132,0.0,26,409.09,5,2,1,New or occasional
+111,0.0,26,707.56,5,2,2,New or occasional
+1525,0.0,26,1161.65,5,2,3,New or occasional
+2210,0.0,26,1565.67,5,2,3,New or occasional
+1786,0.0,27,233.53,5,2,1,New or occasional
+711,0.0,27,338.71,5,2,1,New or occasional
+2471,0.0,27,426.05,5,2,1,New or occasional
+737,0.0,27,843.99,5,2,2,New or occasional
+1805,0.0,28,291.64,5,2,1,New or occasional
+655,0.0,30,988.58,5,2,3,New or occasional
+1543,0.0,30,1014.66,5,2,3,New or occasional
+1708,0.0,30,2044.77,5,2,4,New or occasional
+2119,0.0,31,1641.91,5,2,3,New or occasional
+2274,0.0,31,3809.68,5,2,5,New or occasional
+343,0.0,32,801.1,5,2,2,New or occasional
+1719,0.0,33,936.79,5,2,2,New or occasional
+1664,0.0,33,1641.43,5,2,3,New or occasional
+1774,0.0,33,2433.12,5,2,4,New or occasional
+1658,0.0,34,814.27,5,2,2,New or occasional
+106,0.0,34,886.29,5,2,2,New or occasional
+1877,0.0,34,1149.1,5,2,3,New or occasional
+564,0.0,35,645.18,5,2,2,New or occasional
+180,0.0,35,919.91,5,2,2,New or occasional
+1083,0.0,35,940.27,5,2,2,New or occasional
+1075,0.0,36,678.03,5,3,2,Loyal regulars
+1332,0.0,36,1451.46,5,3,3,Loyal regulars
+450,0.0,37,830.77,5,3,2,Loyal regulars
+325,0.0,37,1331.77,5,3,3,Loyal regulars
+162,0.0,37,1737.33,5,3,4,Loyal regulars
+2393,0.0,37,2509.36,5,3,4,Loyal regulars
+1080,0.0,38,837.2,5,3,2,Loyal regulars
+1129,0.0,38,886.28,5,3,2,Loyal regulars
+1362,0.0,38,897.39,5,3,2,Loyal regulars
+2005,0.0,38,981.58,5,3,3,Loyal regulars
+2279,0.0,39,696.03,5,3,2,Loyal regulars
+185,0.0,39,1138.51,5,3,3,Loyal regulars
+978,0.0,39,1143.82,5,3,3,Loyal regulars
+514,0.0,39,1477.01,5,3,3,Loyal regulars
+1899,0.0,39,6809.31,5,3,5,Loyal regulars
+1592,0.0,40,1951.85,5,3,4,Loyal regulars
+479,0.0,41,811.4,5,3,2,Loyal regulars
+381,0.0,41,1366.65,5,3,3,Loyal regulars
+1069,0.0,41,2220.25,5,3,4,Loyal regulars
+1017,0.0,41,2428.75,5,3,4,Loyal regulars
+223,0.0,43,1179.17,5,3,3,Loyal regulars
+2094,0.0,43,1640.26,5,3,3,Loyal regulars
+2247,0.0,43,1752.96,5,3,4,Loyal regulars
+1794,0.0,43,2070.91,5,3,4,Loyal regulars
+2330,0.0,43,3340.24,5,3,5,Loyal regulars
+2421,0.0,43,4086.95,5,3,5,Loyal regulars
+809,0.0,44,498.27,5,3,2,Loyal regulars
+1905,0.0,44,728.57,5,3,2,Loyal regulars
+1047,0.0,45,551.9,5,3,2,Loyal regulars
+1970,0.0,45,857.25,5,3,2,Loyal regulars
+2008,0.0,45,1476.03,5,3,3,Loyal regulars
+2195,0.0,46,653.1,5,3,2,Loyal regulars
+1993,0.0,46,696.67,5,3,2,Loyal regulars
+2211,0.0,46,1318.08,5,3,3,Loyal regulars
+1437,0.0,46,2379.59,5,3,4,Loyal regulars
+1783,0.0,46,2480.18,5,3,4,Loyal regulars
+1192,0.0,47,760.28,5,3,2,Loyal regulars
+785,0.0,47,771.91,5,3,2,Loyal regulars
+2381,0.0,47,1166.12,5,3,3,Loyal regulars
+119,0.0,47,1920.8,5,3,4,Loyal regulars
+1555,0.0,49,879.2,5,3,2,Loyal regulars
+2016,0.0,49,893.64,5,3,2,Loyal regulars
+417,0.0,49,1648.17,5,3,3,Loyal regulars
+1088,0.0,50,758.14,5,3,2,Loyal regulars
+2369,0.0,50,1814.97,5,3,4,Loyal regulars
+1568,0.0,50,2764.67,5,3,4,Loyal regulars
+2314,0.0,50,2863.77,5,3,4,Loyal regulars
+1370,0.0,50,5024.06,5,3,5,Loyal regulars
+1,0.0,51,2415.56,5,3,4,Loyal regulars
+457,0.0,52,408.76,5,3,1,Loyal regulars
+1981,0.0,52,665.24,5,3,2,Loyal regulars
+1758,0.0,52,1712.13,5,3,3,Loyal regulars
+2345,0.0,52,2291.48,5,3,4,Loyal regulars
+2420,0.0,52,2788.85,5,3,4,Loyal regulars
+1459,0.0,52,3190.93,5,3,5,Loyal regulars
+1109,0.0,53,2031.69,5,3,4,Loyal regulars
+2100,0.0,53,2227.72,5,3,4,Loyal regulars
+2022,0.0,53,4906.66,5,3,5,Loyal regulars
+730,0.0,54,616.05,5,3,2,Loyal regulars
+1492,0.0,54,681.25,5,3,2,Loyal regulars
+1578,0.0,54,1480.56,5,3,3,Loyal regulars
+606,0.0,54,1921.81,5,3,4,Loyal regulars
+2065,0.0,54,2279.75,5,3,4,Loyal regulars
+1369,0.0,55,1269.97,5,3,3,Loyal regulars
+302,0.0,56,1021.21,5,3,3,Loyal regulars
+852,0.0,56,1205.99,5,3,3,Loyal regulars
+297,0.0,59,2112.54,5,4,4,Champions
+823,0.0,60,1606.11,5,4,3,Loyal regulars
+807,0.0,60,2304.27,5,4,4,Champions
+1336,0.0,60,3302.22,5,4,5,Champions
+80,0.0,61,2006.28,5,4,4,Champions
+2483,0.0,62,949.38,5,4,2,Loyal regulars
+2111,0.0,62,1417.24,5,4,3,Loyal regulars
+2056,0.0,62,1515.04,5,4,3,Loyal regulars
+2030,0.0,62,1673.76,5,4,3,Loyal regulars
+2486,0.0,62,2372.86,5,4,4,Champions
+1642,0.0,63,949.28,5,4,2,Loyal regulars
+282,0.0,63,2339.34,5,4,4,Champions
+671,0.0,63,2532.58,5,4,4,Champions
+1378,0.0,63,4025.37,5,4,5,Champions
+1947,0.0,63,5330.31,5,4,5,Champions
+1266,0.0,64,898.61,5,4,2,Loyal regulars
+1607,0.0,64,2119.36,5,4,4,Champions
+1621,0.0,64,2161.15,5,4,4,Champions
+864,0.0,64,4782.57,5,4,5,Champions
+1537,0.0,65,1116.44,5,4,3,Loyal regulars
+1639,0.0,65,1455.44,5,4,3,Loyal regulars
+928,0.0,65,1560.03,5,4,3,Loyal regulars
+2173,0.0,65,1720.58,5,4,3,Loyal regulars
+2453,0.0,65,2295.91,5,4,4,Champions
+2262,0.0,66,725.64,5,4,2,Loyal regulars
+793,0.0,66,990.98,5,4,3,Loyal regulars
+1948,0.0,66,1189.75,5,4,3,Loyal regulars
+2193,0.0,67,4727.0,5,4,5,Champions
+2172,0.0,68,1681.62,5,4,3,Loyal regulars
+166,0.0,68,1886.92,5,4,4,Champions
+434,0.0,68,2186.11,5,4,4,Champions
+164,0.0,68,2692.29,5,4,4,Champions
+941,0.0,69,1205.74,5,4,3,Loyal regulars
+2452,0.0,69,1637.72,5,4,3,Loyal regulars
+183,0.0,70,763.52,5,4,2,Loyal regulars
+2068,0.0,70,1589.14,5,4,3,Loyal regulars
+2158,0.0,70,1784.2,5,4,4,Champions
+396,0.0,71,1289.71,5,4,3,Loyal regulars
+1563,0.0,72,2534.78,5,4,4,Champions
+845,0.0,72,3021.96,5,4,4,Champions
+1776,0.0,73,1351.44,5,4,3,Loyal regulars
+1996,0.0,73,1523.7,5,4,3,Loyal regulars
+725,0.0,73,3130.81,5,4,5,Champions
+2500,0.0,73,3655.93,5,4,5,Champions
+996,0.0,74,1172.57,5,4,3,Loyal regulars
+1650,0.0,74,1619.18,5,4,3,Loyal regulars
+879,0.0,74,1845.64,5,4,4,Champions
+1462,0.0,74,3021.02,5,4,4,Champions
+578,0.0,75,1674.01,5,4,3,Loyal regulars
+1473,0.0,75,2623.78,5,4,4,Champions
+52,0.0,75,3176.89,5,4,5,Champions
+354,0.0,75,4179.83,5,4,5,Champions
+2023,0.0,76,1327.06,5,4,3,Loyal regulars
+1364,0.0,77,1188.89,5,4,3,Loyal regulars
+1174,0.0,77,1325.29,5,4,3,Loyal regulars
+205,0.0,77,2643.47,5,4,4,Champions
+949,0.0,77,3319.09,5,4,5,Champions
+1133,0.0,78,945.86,5,4,2,Loyal regulars
+1911,0.0,78,1117.86,5,4,3,Loyal regulars
+1188,0.0,78,1667.49,5,4,3,Loyal regulars
+1131,0.0,78,2264.89,5,4,4,Champions
+1520,0.0,78,2339.18,5,4,4,Champions
+1990,0.0,78,2928.51,5,4,4,Champions
+1845,0.0,78,5617.53,5,4,5,Champions
+178,0.0,79,1346.69,5,4,3,Loyal regulars
+2475,0.0,79,3345.55,5,4,5,Champions
+22,0.0,79,3453.31,5,4,5,Champions
+1612,0.0,79,4974.07,5,4,5,Champions
+2479,0.0,79,8388.11,5,4,5,Champions
+2108,0.0,81,1308.58,5,4,3,Loyal regulars
+1073,0.0,81,1920.79,5,4,4,Champions
+2149,0.0,81,2817.52,5,4,4,Champions
+49,0.0,81,4579.65,5,4,5,Champions
+1211,0.0,81,4614.81,5,4,5,Champions
+747,0.0,82,705.69,5,4,2,Loyal regulars
+2126,0.0,82,2715.13,5,4,4,Champions
+722,0.0,82,3956.19,5,4,5,Champions
+227,0.0,83,776.47,5,4,2,Loyal regulars
+1061,0.0,83,4246.43,5,4,5,Champions
+262,0.0,84,2496.53,5,4,4,Champions
+1865,0.0,84,3255.31,5,4,5,Champions
+324,0.0,84,4584.05,5,4,5,Champions
+1000,0.0,85,2509.38,5,4,4,Champions
+1613,0.0,85,4086.45,5,4,5,Champions
+2465,0.0,86,1006.22,5,4,3,Loyal regulars
+1159,0.0,86,1513.43,5,4,3,Loyal regulars
+2084,0.0,86,2078.56,5,4,4,Champions
+1307,0.0,87,1148.46,5,4,3,Loyal regulars
+2275,0.0,87,1747.44,5,4,4,Champions
+866,0.0,87,3504.71,5,4,5,Champions
+1423,0.0,88,1214.89,5,4,3,Loyal regulars
+923,0.0,88,1815.71,5,4,4,Champions
+612,0.0,88,2515.16,5,4,4,Champions
+1271,0.0,88,2656.95,5,4,4,Champions
+2445,0.0,89,3600.45,5,4,5,Champions
+1769,0.0,90,4160.55,5,4,5,Champions
+1985,0.0,90,5455.84,5,4,5,Champions
+503,0.0,91,2753.88,5,4,4,Champions
+1906,0.0,91,4766.91,5,4,5,Champions
+1431,0.0,92,1547.05,5,4,3,Loyal regulars
+1872,0.0,92,2261.11,5,4,4,Champions
+1511,0.0,92,2616.44,5,4,4,Champions
+2125,0.0,92,3840.57,5,4,5,Champions
+2237,0.0,93,3047.26,5,4,4,Champions
+654,0.0,94,1159.84,5,4,3,Loyal regulars
+14,0.0,94,1665.39,5,4,3,Loyal regulars
+1402,0.0,95,1058.54,5,4,3,Loyal regulars
+1236,0.0,95,1765.07,5,4,4,Champions
+210,0.0,95,2428.41,5,4,4,Champions
+878,0.0,95,3127.78,5,4,5,Champions
+1648,0.0,95,4484.7,5,4,5,Champions
+1550,0.0,96,619.3,5,4,2,Loyal regulars
+817,0.0,96,2984.71,5,4,4,Champions
+1020,0.0,96,5292.25,5,4,5,Champions
+73,0.0,97,1994.61,5,4,4,Champions
+1549,0.0,98,1011.4,5,4,3,Loyal regulars
+285,0.0,98,2148.24,5,4,4,Champions
+1540,0.0,98,2338.25,5,5,4,Champions
+338,0.0,100,1560.86,5,5,3,Loyal regulars
+165,0.0,100,1609.6,5,5,3,Loyal regulars
+18,0.0,100,4094.36,5,5,5,Champions
+831,0.0,100,5291.92,5,5,5,Champions
+46,0.0,100,5917.48,5,5,5,Champions
+1297,0.0,101,1894.29,5,5,4,Champions
+2154,0.0,101,2125.1,5,5,4,Champions
+989,0.0,101,2874.25,5,5,4,Champions
+218,0.0,101,5706.09,5,5,5,Champions
+2266,0.0,101,5717.36,5,5,5,Champions
+622,0.0,103,1694.76,5,5,3,Loyal regulars
+85,0.0,103,2039.13,5,5,4,Champions
+886,0.0,103,2247.82,5,5,4,Champions
+2448,0.0,103,4238.47,5,5,5,Champions
+2168,0.0,105,2909.33,5,5,4,Champions
+744,0.0,105,3276.78,5,5,5,Champions
+1831,0.0,105,3588.66,5,5,5,Champions
+2055,0.0,106,1737.11,5,5,4,Champions
+1151,0.0,106,1982.32,5,5,4,Champions
+1187,0.0,106,2332.92,5,5,4,Champions
+2234,0.0,106,4437.78,5,5,5,Champions
+230,0.0,107,2722.68,5,5,4,Champions
+1630,0.0,107,5396.29,5,5,5,Champions
+2018,0.0,108,2546.7,5,5,4,Champions
+889,0.0,108,6919.79,5,5,5,Champions
+2082,0.0,109,2795.15,5,5,4,Champions
+518,0.0,109,3694.48,5,5,5,Champions
+882,0.0,110,1404.18,5,5,3,Loyal regulars
+2240,0.0,110,2647.97,5,5,4,Champions
+196,0.0,110,3062.46,5,5,4,Champions
+1633,0.0,110,6319.02,5,5,5,Champions
+1172,0.0,111,3140.95,5,5,5,Champions
+638,0.0,111,5190.11,5,5,5,Champions
+2462,0.0,111,6261.78,5,5,5,Champions
+1284,0.0,113,1325.41,5,5,3,Loyal regulars
+1299,0.0,113,3312.27,5,5,5,Champions
+2217,0.0,114,2210.16,5,5,4,Champions
+855,0.0,114,2631.15,5,5,4,Champions
+600,0.0,114,4017.87,5,5,5,Champions
+586,0.0,115,3571.3,5,5,5,Champions
+289,0.0,115,3638.75,5,5,5,Champions
+2162,0.0,115,8994.04,5,5,5,Champions
+97,0.0,117,3098.03,5,5,4,Champions
+2376,0.0,118,2419.79,5,5,4,Champions
+393,0.0,118,2602.41,5,5,4,Champions
+581,0.0,118,4192.68,5,5,5,Champions
+1084,0.0,119,1429.58,5,5,3,Loyal regulars
+1509,0.0,119,3712.43,5,5,5,Champions
+2007,0.0,119,5326.44,5,5,5,Champions
+1178,0.0,120,2518.12,5,5,4,Champions
+91,0.0,121,2134.79,5,5,4,Champions
+1490,0.0,121,2536.15,5,5,4,Champions
+2342,0.0,122,3388.23,5,5,5,Champions
+1588,0.0,123,2655.31,5,5,4,Champions
+1454,0.0,123,4232.94,5,5,5,Champions
+943,0.0,124,2852.32,5,5,4,Champions
+1528,0.0,124,4639.99,5,5,5,Champions
+1110,0.0,124,5165.62,5,5,5,Champions
+2137,0.0,125,2051.86,5,5,4,Champions
+306,0.0,125,3665.01,5,5,5,Champions
+1751,0.0,125,3675.75,5,5,5,Champions
+131,0.0,126,2777.75,5,5,4,Champions
+1481,0.0,127,2617.74,5,5,4,Champions
+2269,0.0,128,2026.77,5,5,4,Champions
+294,0.0,128,2719.12,5,5,4,Champions
+2209,0.0,129,3414.12,5,5,5,Champions
+568,0.0,129,5705.32,5,5,5,Champions
+2087,0.0,130,4575.46,5,5,5,Champions
+1240,0.0,131,6780.53,5,5,5,Champions
+1321,0.0,133,969.65,5,5,3,Loyal regulars
+710,0.0,133,2135.52,5,5,4,Champions
+2343,0.0,133,2657.31,5,5,4,Champions
+1376,0.0,133,6474.1,5,5,5,Champions
+2238,0.0,134,1915.52,5,5,4,Champions
+493,0.0,135,3085.48,5,5,4,Champions
+442,0.0,136,1791.3,5,5,4,Champions
+418,0.0,136,4966.8,5,5,5,Champions
+675,0.0,137,2917.55,5,5,4,Champions
+840,0.0,138,7026.82,5,5,5,Champions
+1917,0.0,139,3208.67,5,5,5,Champions
+127,0.0,139,3673.34,5,5,5,Champions
+1303,0.0,139,3958.51,5,5,5,Champions
+2233,0.0,141,4793.28,5,5,5,Champions
+2190,0.0,141,5831.64,5,5,5,Champions
+685,0.0,143,3724.8,5,5,5,Champions
+1461,0.0,143,4333.73,5,5,5,Champions
+101,0.0,145,4483.35,5,5,5,Champions
+58,0.0,146,5813.87,5,5,5,Champions
+2004,0.0,147,5923.67,5,5,5,Champions
+695,0.0,147,5967.74,5,5,5,Champions
+1158,0.0,148,1992.83,5,5,4,Champions
+920,0.0,148,3818.97,5,5,5,Champions
+1277,0.0,149,3157.1,5,5,5,Champions
+2296,0.0,150,8183.49,5,5,5,Champions
+2020,0.0,152,5660.53,5,5,5,Champions
+1142,0.0,152,8886.47,5,5,5,Champions
+1190,0.0,153,2117.59,5,5,4,Champions
+386,0.0,153,2550.3,5,5,4,Champions
+690,0.0,153,2903.92,5,5,4,Champions
+1045,0.0,154,2415.57,5,5,4,Champions
+934,0.0,154,6595.14,5,5,5,Champions
+1366,0.0,156,2688.65,5,5,4,Champions
+13,0.0,157,7448.22,5,5,5,Champions
+788,0.0,160,4041.13,5,5,5,Champions
+1547,0.0,161,1223.28,5,5,3,Loyal regulars
+389,0.0,161,8900.92,5,5,5,Champions
+1029,0.0,163,8263.03,5,5,5,Champions
+2170,0.0,164,3471.18,5,5,5,Champions
+184,0.0,165,4715.76,5,5,5,Champions
+805,0.0,166,2915.86,5,5,4,Champions
+2284,0.0,167,10167.92,5,5,5,Champions
+1580,0.0,168,1462.13,5,5,3,Loyal regulars
+1130,0.0,169,2776.62,5,5,4,Champions
+304,0.0,177,4905.14,5,5,5,Champions
+1535,0.0,181,5613.74,5,5,5,Champions
+641,0.0,181,7067.8,5,5,5,Champions
+64,0.0,182,2445.22,5,5,4,Champions
+2115,0.0,182,8303.09,5,5,5,Champions
+1770,0.0,185,3970.87,5,5,5,Champions
+1527,0.0,185,9909.42,5,5,5,Champions
+575,0.0,190,6451.75,5,5,5,Champions
+400,0.0,191,11801.64,5,5,5,Champions
+413,0.0,193,4036.73,5,5,5,Champions
+1367,0.0,194,6449.98,5,5,5,Champions
+511,0.0,198,3005.52,5,5,4,Champions
+275,0.0,198,3997.75,5,5,5,Champions
+1584,0.0,199,4468.98,5,5,5,Champions
+591,0.0,199,8158.82,5,5,5,Champions
+982,0.0,199,9432.98,5,5,5,Champions
+510,0.0,202,4446.87,5,5,5,Champions
+1907,0.0,203,4757.56,5,5,5,Champions
+2083,0.0,204,4257.48,5,5,5,Champions
+1229,0.0,206,9612.1,5,5,5,Champions
+263,0.0,207,3709.51,5,5,5,Champions
+1534,0.0,207,5654.0,5,5,5,Champions
+1631,0.0,208,6183.84,5,5,5,Champions
+2427,0.0,209,5076.65,5,5,5,Champions
+2194,0.0,211,3939.21,5,5,5,Champions
+1146,0.0,211,5275.59,5,5,5,Champions
+1475,0.0,214,9416.59,5,5,5,Champions
+1975,0.0,217,10843.51,5,5,5,Champions
+1314,0.0,225,8456.98,5,5,5,Champions
+1452,0.0,226,1320.89,5,5,3,Loyal regulars
+728,0.0,227,4563.7,5,5,5,Champions
+2252,0.0,233,6246.77,5,5,5,Champions
+1620,0.0,233,6312.33,5,5,5,Champions
+358,0.0,233,7787.98,5,5,5,Champions
+290,0.0,235,4476.27,5,5,5,Champions
+2467,0.0,241,8381.66,5,5,5,Champions
+1609,0.0,245,16581.36,5,5,5,Champions
+2198,0.0,248,4279.43,5,5,5,Champions
+1856,0.0,252,2637.15,5,5,4,Champions
+376,0.0,253,2445.62,5,5,4,Champions
+1419,0.0,257,3821.9,5,5,5,Champions
+661,0.0,262,5243.34,5,5,5,Champions
+631,0.0,264,5047.26,5,5,5,Champions
+1566,0.0,265,8363.93,5,5,5,Champions
+1098,0.0,274,5921.98,5,5,5,Champions
+2261,0.0,280,8424.64,5,5,5,Champions
+534,0.0,283,794.94,5,5,2,Loyal regulars
+27,0.0,283,4395.42,5,5,5,Champions
+19,0.0,298,7739.37,5,5,5,Champions
+768,0.0,299,4222.21,5,5,5,Champions
+1379,0.0,302,8884.93,5,5,5,Champions
+1598,0.0,331,8547.09,5,5,5,Champions
+2086,0.0,337,3853.92,5,5,5,Champions
+1707,0.0,338,2589.02,5,5,4,Champions
+1489,0.0,348,10963.69,5,5,5,Champions
+68,0.0,358,3372.52,5,5,5,Champions
+463,0.0,369,3217.43,5,5,5,Champions
+1228,0.0,403,7998.24,5,5,5,Champions
+1479,0.0,417,5610.23,5,5,5,Champions
+1901,0.0,449,5750.4,5,5,5,Champions
+1453,0.0,502,13376.23,5,5,5,Champions
+762,0.0,612,5999.99,5,5,5,Champions
+900,0.0,674,9549.6,5,5,5,Champions
+1795,0.0,694,5891.11,5,5,5,Champions
+1510,0.0,747,6901.27,5,5,5,Champions
+2337,0.0,780,6921.86,5,5,5,Champions
+1215,1.0,7,333.7,5,1,1,New or occasional
+1866,1.0,8,90.98,5,1,1,New or occasional
+1679,1.0,9,89.59,5,1,1,New or occasional
+1503,1.0,11,82.82,5,1,1,New or occasional
+905,1.0,11,233.3,5,1,1,New or occasional
+1507,1.0,11,738.21,5,1,2,New or occasional
+2469,1.0,12,214.34,5,1,1,New or occasional
+2175,1.0,12,377.38,5,1,1,New or occasional
+2026,1.0,12,876.25,5,1,2,New or occasional
+320,1.0,13,353.25,5,1,1,New or occasional
+236,1.0,15,414.8,5,1,1,New or occasional
+838,1.0,16,186.97,5,1,1,New or occasional
+1737,1.0,16,230.89,5,1,1,New or occasional
+420,1.0,16,416.24,5,1,1,New or occasional
+904,1.0,16,500.89,5,1,2,New or occasional
+1002,1.0,16,538.5,5,1,2,New or occasional
+1086,1.0,16,598.57,5,1,2,New or occasional
+357,1.0,16,1174.44,5,1,3,New or occasional
+24,1.0,18,349.76,5,1,1,New or occasional
+1519,1.0,19,1748.48,5,2,4,New or occasional
+561,1.0,20,1072.88,5,2,3,New or occasional
+1189,1.0,21,470.18,5,2,2,New or occasional
+1784,1.0,21,1032.47,5,2,3,New or occasional
+1345,1.0,22,513.28,5,2,2,New or occasional
+1487,1.0,22,821.76,5,2,2,New or occasional
+1698,1.0,22,1293.33,5,2,3,New or occasional
+2474,1.0,23,222.85,5,2,1,New or occasional
+2032,1.0,23,455.65,5,2,2,New or occasional
+2090,1.0,24,607.37,5,2,2,New or occasional
+82,1.0,26,253.44,5,2,1,New or occasional
+1384,1.0,26,596.64,5,2,2,New or occasional
+1704,1.0,27,308.26,5,2,1,New or occasional
+155,1.0,27,1224.71,5,2,3,New or occasional
+1446,1.0,27,1384.02,5,2,3,New or occasional
+2278,1.0,28,593.76,5,2,2,New or occasional
+160,1.0,29,635.38,5,2,2,New or occasional
+1185,1.0,29,706.64,5,2,2,New or occasional
+1395,1.0,29,816.28,5,2,2,New or occasional
+1691,1.0,29,1437.82,4,2,3,New or occasional
+1457,1.0,29,1890.42,4,2,4,New or occasional
+658,1.0,30,715.2,4,2,2,New or occasional
+1155,1.0,30,1228.89,4,2,3,New or occasional
+1407,1.0,30,1265.77,4,2,3,New or occasional
+1217,1.0,30,1551.42,4,2,3,New or occasional
+33,1.0,31,617.88,4,2,2,New or occasional
+1875,1.0,31,629.66,4,2,2,New or occasional
+316,1.0,32,509.59,4,2,2,New or occasional
+1560,1.0,32,812.12,4,2,2,New or occasional
+1634,1.0,32,1428.02,4,2,3,New or occasional
+1894,1.0,32,1933.12,4,2,4,New or occasional
+2435,1.0,32,2149.28,4,2,4,New or occasional
+1980,1.0,33,2627.23,4,2,4,New or occasional
+1089,1.0,34,440.43,4,2,1,New or occasional
+201,1.0,34,1130.08,4,2,3,New or occasional
+2335,1.0,34,1348.22,4,2,3,New or occasional
+1605,1.0,35,334.08,4,2,1,New or occasional
+29,1.0,35,523.56,4,2,2,New or occasional
+339,1.0,36,966.66,4,3,3,Loyal regulars
+914,1.0,36,1254.11,4,3,3,Loyal regulars
+1119,1.0,37,1058.24,4,3,3,Loyal regulars
+515,1.0,37,1351.25,4,3,3,Loyal regulars
+1744,1.0,38,537.73,4,3,2,Loyal regulars
+937,1.0,38,903.45,4,3,2,Loyal regulars
+242,1.0,38,2526.86,4,3,4,Loyal regulars
+1076,1.0,39,881.72,4,3,2,Loyal regulars
+781,1.0,39,1159.23,4,3,3,Loyal regulars
+1672,1.0,40,849.51,4,3,2,Loyal regulars
+803,1.0,40,1127.39,4,3,3,Loyal regulars
+1997,1.0,40,2600.84,4,3,4,Loyal regulars
+395,1.0,41,481.56,4,3,2,Loyal regulars
+1912,1.0,41,1113.28,4,3,3,Loyal regulars
+1072,1.0,42,1691.09,4,3,3,Loyal regulars
+648,1.0,43,1220.37,4,3,3,Loyal regulars
+71,1.0,43,1367.23,4,3,3,Loyal regulars
+1665,1.0,44,446.59,4,3,2,Loyal regulars
+539,1.0,44,887.97,4,3,2,Loyal regulars
+473,1.0,44,1902.88,4,3,4,Loyal regulars
+602,1.0,45,1638.46,4,3,3,Loyal regulars
+1325,1.0,46,2011.84,4,3,4,Loyal regulars
+116,1.0,47,405.79,4,3,1,Loyal regulars
+743,1.0,47,1158.87,4,3,3,Loyal regulars
+1226,1.0,47,3958.18,4,3,5,Loyal regulars
+907,1.0,48,916.2,4,3,2,Loyal regulars
+987,1.0,48,1144.14,4,3,3,Loyal regulars
+384,1.0,48,2281.94,4,3,4,Loyal regulars
+911,1.0,48,2694.83,4,3,4,Loyal regulars
+16,1.0,49,646.87,4,3,2,Loyal regulars
+1357,1.0,49,2259.43,4,3,4,Loyal regulars
+2024,1.0,49,2605.78,4,3,4,Loyal regulars
+1318,1.0,49,3464.36,4,3,5,Loyal regulars
+283,1.0,49,3906.61,4,3,5,Loyal regulars
+1039,1.0,50,2823.16,4,3,4,Loyal regulars
+301,1.0,50,4468.63,4,3,5,Loyal regulars
+1494,1.0,51,1547.08,4,3,3,Loyal regulars
+1300,1.0,51,1865.7,4,3,4,Loyal regulars
+438,1.0,51,3317.64,4,3,5,Loyal regulars
+1717,1.0,52,957.35,4,3,3,Loyal regulars
+1920,1.0,52,1021.51,4,3,3,Loyal regulars
+117,1.0,52,1463.14,4,3,3,Loyal regulars
+1979,1.0,53,499.54,4,3,2,Loyal regulars
+672,1.0,53,961.81,4,3,3,Loyal regulars
+1350,1.0,53,1244.73,4,3,3,Loyal regulars
+2289,1.0,53,1446.53,4,3,3,Loyal regulars
+1833,1.0,53,1515.98,4,3,3,Loyal regulars
+1848,1.0,53,5639.96,4,3,5,Loyal regulars
+1968,1.0,54,1392.24,4,3,3,Loyal regulars
+2147,1.0,54,3716.12,4,3,5,Loyal regulars
+580,1.0,55,695.12,4,3,2,Loyal regulars
+25,1.0,55,1885.32,4,3,4,Loyal regulars
+1919,1.0,55,2470.73,4,3,4,Loyal regulars
+300,1.0,56,1792.13,4,3,4,Loyal regulars
+1358,1.0,57,1103.31,4,3,3,Loyal regulars
+784,1.0,57,1448.98,4,3,3,Loyal regulars
+2224,1.0,57,2061.77,4,3,4,Loyal regulars
+211,1.0,58,937.29,4,3,2,Loyal regulars
+1735,1.0,58,2279.54,4,3,4,Loyal regulars
+460,1.0,59,389.68,4,3,1,Loyal regulars
+1048,1.0,59,1320.13,4,4,3,Loyal regulars
+1505,1.0,59,2409.06,4,4,4,Champions
+2468,1.0,60,1683.39,4,4,3,Loyal regulars
+1374,1.0,60,1769.31,4,4,4,Champions
+705,1.0,61,831.88,4,4,2,Loyal regulars
+1406,1.0,61,1845.04,4,4,4,Champions
+1125,1.0,62,540.09,4,4,2,Loyal regulars
+542,1.0,62,1173.09,4,4,3,Loyal regulars
+543,1.0,62,2258.47,4,4,4,Champions
+2102,1.0,63,2317.73,4,4,4,Champions
+1164,1.0,63,2778.69,4,4,4,Champions
+1676,1.0,63,3013.14,4,4,4,Champions
+1269,1.0,64,1582.43,4,4,3,Loyal regulars
+2011,1.0,65,932.99,4,4,2,Loyal regulars
+540,1.0,65,2394.42,4,4,4,Champions
+1234,1.0,65,3478.15,4,4,5,Champions
+1930,1.0,66,1249.96,4,4,3,Loyal regulars
+23,1.0,66,1453.01,4,4,3,Loyal regulars
+732,1.0,66,2486.48,4,4,4,Champions
+2171,1.0,66,2553.75,4,4,4,Champions
+1839,1.0,67,1196.49,4,4,3,Loyal regulars
+377,1.0,67,1373.76,4,4,3,Loyal regulars
+1869,1.0,67,1957.3,4,4,4,Champions
+1137,1.0,68,1195.34,4,4,3,Loyal regulars
+1154,1.0,68,2163.98,4,4,4,Champions
+1812,1.0,69,1454.29,4,4,3,Loyal regulars
+1595,1.0,70,2473.0,4,4,4,Champions
+142,1.0,71,969.12,4,4,3,Loyal regulars
+582,1.0,71,2316.96,4,4,4,Champions
+2488,1.0,71,3778.64,4,4,5,Champions
+208,1.0,72,2362.81,4,4,4,Champions
+1815,1.0,72,3465.51,4,4,5,Champions
+574,1.0,72,4382.98,4,4,5,Champions
+1081,1.0,73,5716.36,4,4,5,Champions
+2062,1.0,75,1776.44,4,4,4,Champions
+1458,1.0,75,1911.95,4,4,4,Champions
+2015,1.0,75,3774.74,4,4,5,Champions
+915,1.0,76,586.13,4,4,2,Loyal regulars
+2050,1.0,76,2420.42,4,4,4,Champions
+1558,1.0,76,2664.45,4,4,4,Champions
+1716,1.0,77,914.57,4,4,2,Loyal regulars
+2418,1.0,77,1057.08,4,4,3,Loyal regulars
+706,1.0,77,2585.58,4,4,4,Champions
+764,1.0,78,2122.53,4,4,4,Champions
+1689,1.0,78,2134.54,4,4,4,Champions
+893,1.0,78,3601.4,4,4,5,Champions
+869,1.0,79,850.68,4,4,2,Loyal regulars
+1216,1.0,79,3370.05,4,4,5,Champions
+55,1.0,80,442.8,4,4,1,Loyal regulars
+2324,1.0,80,1817.34,4,4,4,Champions
+1914,1.0,83,1828.07,4,4,4,Champions
+1352,1.0,84,3176.58,4,4,5,Champions
+1333,1.0,84,4976.85,4,4,5,Champions
+1353,1.0,85,2733.42,4,4,4,Champions
+2058,1.0,85,2981.3,4,4,4,Champions
+637,1.0,86,1879.04,4,4,4,Champions
+2406,1.0,86,2852.33,4,4,4,Champions
+1730,1.0,87,1833.16,4,4,4,Champions
+621,1.0,87,2090.03,4,4,4,Champions
+2188,1.0,87,2673.59,4,4,4,Champions
+2481,1.0,87,3037.79,4,4,4,Champions
+2133,1.0,88,4313.13,4,4,5,Champions
+1937,1.0,89,3609.46,4,4,5,Champions
+1966,1.0,90,3503.07,4,4,5,Champions
+374,1.0,91,4159.5,4,4,5,Champions
+421,1.0,92,2981.84,4,4,4,Champions
+630,1.0,93,4092.74,4,4,5,Champions
+235,1.0,94,5540.83,4,4,5,Champions
+1693,1.0,95,4808.56,4,4,5,Champions
+526,1.0,96,2171.46,4,4,4,Champions
+1014,1.0,97,2687.67,4,4,4,Champions
+1197,1.0,99,5281.67,4,5,5,Champions
+715,1.0,100,2102.44,4,5,4,Champions
+1965,1.0,102,2602.36,4,5,4,Champions
+2110,1.0,102,5908.09,4,5,5,Champions
+371,1.0,102,9635.74,4,5,5,Champions
+1604,1.0,104,487.99,4,5,2,Loyal regulars
+863,1.0,104,1563.76,4,5,3,Loyal regulars
+644,1.0,104,1955.69,4,5,4,Champions
+1046,1.0,104,2389.9,4,5,4,Champions
+808,1.0,105,1361.27,4,5,3,Loyal regulars
+348,1.0,105,2400.97,4,5,4,Champions
+1821,1.0,105,3952.24,4,5,5,Champions
+947,1.0,106,1138.65,4,5,3,Loyal regulars
+916,1.0,106,1745.82,4,5,4,Champions
+2446,1.0,106,3637.33,4,5,5,Champions
+2200,1.0,106,4309.47,4,5,5,Champions
+1710,1.0,107,6197.13,4,5,5,Champions
+2041,1.0,108,4766.68,4,5,5,Champions
+2017,1.0,109,4839.52,4,5,5,Champions
+1057,1.0,110,4461.78,4,5,5,Champions
+1935,1.0,110,8209.23,4,5,5,Champions
+979,1.0,111,7610.05,4,5,5,Champions
+895,1.0,112,4628.51,4,5,5,Champions
+983,1.0,114,2265.16,4,5,4,Champions
+2366,1.0,115,3624.18,4,5,5,Champions
+149,1.0,116,6420.14,4,5,5,Champions
+2116,1.0,118,6272.13,4,5,5,Champions
+2183,1.0,119,2920.97,4,5,4,Champions
+2075,1.0,119,3387.61,4,5,5,Champions
+2076,1.0,120,3849.77,4,5,5,Champions
+876,1.0,121,3838.7,4,5,5,Champions
+1752,1.0,122,4311.99,4,5,5,Champions
+804,1.0,123,1628.58,4,5,3,Loyal regulars
+36,1.0,123,2823.16,4,5,4,Champions
+1203,1.0,123,3847.63,4,5,5,Champions
+2497,1.0,124,4190.33,4,5,5,Champions
+276,1.0,125,4299.05,4,5,5,Champions
+1421,1.0,126,3219.96,4,5,5,Champions
+115,1.0,127,8015.72,4,5,5,Champions
+1852,1.0,128,4165.39,4,5,5,Champions
+1837,1.0,129,5661.66,4,5,5,Champions
+1206,1.0,130,2944.71,4,5,4,Champions
+1501,1.0,130,5158.68,4,5,5,Champions
+113,1.0,131,8646.42,4,5,5,Champions
+219,1.0,137,6817.13,4,5,5,Champions
+489,1.0,140,3795.04,4,5,5,Champions
+1258,1.0,142,2155.57,4,5,4,Champions
+1969,1.0,143,1480.83,4,5,3,Loyal regulars
+1274,1.0,143,6929.69,4,5,5,Champions
+78,1.0,147,1746.26,4,5,4,Champions
+1179,1.0,147,6294.31,4,5,5,Champions
+1694,1.0,149,5099.58,4,5,5,Champions
+588,1.0,150,5640.62,4,5,5,Champions
+1873,1.0,151,3518.97,4,5,5,Champions
+553,1.0,152,4213.19,4,5,5,Champions
+6,1.0,154,3449.89,4,5,5,Champions
+2263,1.0,155,2034.31,4,5,4,Champions
+1261,1.0,157,2287.53,4,5,4,Champions
+1397,1.0,158,3309.9,4,5,5,Champions
+1337,1.0,158,7291.01,4,5,5,Champions
+454,1.0,163,4258.01,4,5,5,Champions
+1879,1.0,165,3132.47,4,5,5,Champions
+1245,1.0,167,2472.96,4,5,4,Champions
+1004,1.0,168,2486.93,4,5,4,Champions
+1703,1.0,168,3356.06,4,5,5,Champions
+1998,1.0,171,1442.39,4,5,3,Loyal regulars
+2244,1.0,173,2644.31,4,5,4,Champions
+161,1.0,173,3678.28,4,5,5,Champions
+702,1.0,177,5269.86,4,5,5,Champions
+2322,1.0,178,13187.54,4,5,5,Champions
+1835,1.0,179,6181.4,4,5,5,Champions
+351,1.0,180,5027.64,4,5,5,Champions
+2270,1.0,182,2719.25,4,5,4,Champions
+2012,1.0,183,5366.04,4,5,5,Champions
+2064,1.0,185,3961.43,4,5,5,Champions
+2360,1.0,185,5301.98,4,5,5,Champions
+2351,1.0,190,9934.21,4,5,5,Champions
+1476,1.0,195,5220.46,4,5,5,Champions
+1041,1.0,200,4596.29,4,5,5,Champions
+1430,1.0,202,12849.31,4,5,5,Champions
+468,1.0,207,3480.41,4,5,5,Champions
+696,1.0,210,9422.98,4,5,5,Champions
+1166,1.0,221,6940.1,4,5,5,Champions
+2019,1.0,225,10013.96,4,5,5,Champions
+800,1.0,227,5839.02,4,5,5,Champions
+1823,1.0,241,7598.62,4,5,5,Champions
+198,1.0,242,4611.53,4,5,5,Champions
+2400,1.0,256,9733.54,4,5,5,Champions
+676,1.0,258,7432.5,4,5,5,Champions
+2139,1.0,262,3762.29,4,5,5,Champions
+1326,1.0,283,6967.76,4,5,5,Champions
+20,1.0,289,5525.98,4,5,5,Champions
+156,1.0,303,2097.78,4,5,4,Champions
+1289,1.0,315,876.21,4,5,2,Loyal regulars
+1653,1.0,338,11190.39,4,5,5,Champions
+618,1.0,340,5570.21,4,5,5,Champions
+2070,1.0,402,5328.41,4,5,5,Champions
+2459,1.0,491,9947.03,4,5,5,Champions
+1467,1.0,699,2085.74,4,5,4,Champions
+826,2.0,10,85.82,4,1,1,New or occasional
+2404,2.0,10,295.24,4,1,1,New or occasional
+326,2.0,11,267.92,4,1,1,New or occasional
+994,2.0,13,463.73,4,1,2,New or occasional
+1938,2.0,13,496.07,4,1,2,New or occasional
+466,2.0,15,403.43,4,1,1,New or occasional
+1654,2.0,17,294.75,4,1,1,New or occasional
+723,2.0,18,900.99,4,1,2,New or occasional
+474,2.0,20,1080.97,4,2,3,New or occasional
+1288,2.0,22,1188.46,4,2,3,New or occasional
+1465,2.0,23,461.38,4,2,2,New or occasional
+694,2.0,25,341.7,4,2,1,New or occasional
+246,2.0,25,391.38,4,2,1,New or occasional
+1688,2.0,25,677.55,4,2,2,New or occasional
+2494,2.0,25,1475.98,4,2,3,New or occasional
+1697,2.0,26,656.73,4,2,2,New or occasional
+701,2.0,28,1790.92,4,2,4,New or occasional
+802,2.0,29,873.9,4,2,2,New or occasional
+245,2.0,29,916.64,4,2,2,New or occasional
+1731,2.0,29,1371.35,4,2,3,New or occasional
+1729,2.0,30,866.34,4,2,2,New or occasional
+1890,2.0,30,1008.77,4,2,3,New or occasional
+1956,2.0,30,1052.88,4,2,3,New or occasional
+1298,2.0,33,994.08,4,2,3,New or occasional
+406,2.0,33,1155.57,4,2,3,New or occasional
+545,2.0,33,1443.84,4,2,3,New or occasional
+1208,2.0,34,536.79,4,2,2,New or occasional
+1508,2.0,34,759.4,4,2,2,New or occasional
+927,2.0,34,1124.16,4,2,3,New or occasional
+2344,2.0,35,1366.01,4,2,3,New or occasional
+603,2.0,36,504.61,4,3,2,Loyal regulars
+2196,2.0,37,571.95,4,3,2,Loyal regulars
+1796,2.0,37,1513.12,4,3,3,Loyal regulars
+1964,2.0,39,1251.99,4,3,3,Loyal regulars
+37,2.0,39,1797.3,4,3,4,Loyal regulars
+1056,2.0,39,2679.03,4,3,4,Loyal regulars
+720,2.0,40,974.93,4,3,3,Loyal regulars
+1387,2.0,40,1131.56,4,3,3,Loyal regulars
+135,2.0,41,350.48,4,3,1,Loyal regulars
+2123,2.0,41,3047.17,4,3,4,Loyal regulars
+2303,2.0,42,1326.55,4,3,3,Loyal regulars
+536,2.0,43,669.54,4,3,2,Loyal regulars
+1071,2.0,43,1087.23,4,3,3,Loyal regulars
+2290,2.0,44,576.51,4,3,2,Loyal regulars
+1685,2.0,44,598.55,4,3,2,Loyal regulars
+2377,2.0,46,683.53,4,3,2,Loyal regulars
+1296,2.0,46,1267.96,4,3,3,Loyal regulars
+1295,2.0,47,962.85,4,3,3,Loyal regulars
+1967,2.0,49,1233.22,4,3,3,Loyal regulars
+222,2.0,49,2141.89,4,3,4,Loyal regulars
+394,2.0,50,1305.85,4,3,3,Loyal regulars
+2298,2.0,51,1710.4,4,3,3,Loyal regulars
+2134,2.0,51,5375.4,4,3,5,Loyal regulars
+1241,2.0,52,836.76,4,3,2,Loyal regulars
+885,2.0,52,1401.7,4,3,3,Loyal regulars
+221,2.0,52,1802.84,4,3,4,Loyal regulars
+1668,2.0,54,1360.85,4,3,3,Loyal regulars
+2142,2.0,54,4226.5,4,3,5,Loyal regulars
+1021,2.0,55,853.03,4,3,2,Loyal regulars
+390,2.0,55,897.04,4,3,2,Loyal regulars
+1224,2.0,55,1293.26,4,3,3,Loyal regulars
+548,2.0,55,2490.43,4,3,4,Loyal regulars
+1622,2.0,56,2063.77,4,3,4,Loyal regulars
+308,2.0,57,1618.75,4,3,3,Loyal regulars
+2225,2.0,57,1865.98,4,3,4,Loyal regulars
+1218,2.0,57,2081.46,4,3,4,Loyal regulars
+680,2.0,57,2261.27,4,3,4,Loyal regulars
+919,2.0,59,730.63,4,3,2,Loyal regulars
+1382,2.0,59,1271.38,4,3,3,Loyal regulars
+1354,2.0,59,1628.49,4,4,3,Loyal regulars
+1193,2.0,60,944.72,4,4,2,Loyal regulars
+2235,2.0,61,2519.71,4,4,4,Champions
+1797,2.0,61,2893.81,4,4,4,Champions
+1417,2.0,61,3380.18,4,4,5,Champions
+1443,2.0,62,811.06,4,4,2,Loyal regulars
+2189,2.0,62,904.42,4,4,2,Loyal regulars
+517,2.0,62,2406.52,4,4,4,Champions
+1686,2.0,63,734.19,4,4,2,Loyal regulars
+663,2.0,63,2000.88,4,4,4,Champions
+332,2.0,63,3247.85,4,4,5,Champions
+1483,2.0,64,2570.91,4,4,4,Champions
+8,2.0,65,3080.81,4,4,4,Champions
+367,2.0,66,3996.93,4,4,5,Champions
+1921,2.0,68,945.54,4,4,2,Loyal regulars
+47,2.0,68,1337.79,4,4,3,Loyal regulars
+2466,2.0,68,1978.91,4,4,4,Champions
+2131,2.0,69,2305.3,4,4,4,Champions
+1287,2.0,70,1284.85,4,4,3,Loyal regulars
+2159,2.0,71,1310.48,4,4,3,Loyal regulars
+1896,2.0,71,2170.23,4,4,4,Champions
+1546,2.0,71,2877.94,4,4,4,Champions
+2221,2.0,72,1391.29,4,4,3,Loyal regulars
+968,2.0,72,4823.04,4,4,5,Champions
+624,2.0,73,3386.29,4,4,5,Champions
+305,2.0,75,2094.36,4,4,4,Champions
+946,2.0,78,1525.37,4,4,3,Loyal regulars
+2057,2.0,78,1986.71,4,4,4,Champions
+335,2.0,80,1689.94,4,4,3,Loyal regulars
+1082,2.0,81,1248.57,4,4,3,Loyal regulars
+1791,2.0,82,1894.39,4,4,4,Champions
+993,2.0,82,2177.92,4,4,4,Champions
+1506,2.0,84,1429.47,4,4,3,Loyal regulars
+867,2.0,84,3071.77,4,4,4,Champions
+614,2.0,86,1979.36,4,4,4,Champions
+1962,2.0,87,2297.66,4,4,4,Champions
+1495,2.0,88,1045.47,4,4,3,Loyal regulars
+346,2.0,88,4232.68,4,4,5,Champions
+1050,2.0,89,3293.33,4,4,5,Champions
+1264,2.0,89,3874.1,4,4,5,Champions
+215,2.0,91,1036.64,4,4,3,Loyal regulars
+485,2.0,91,2858.83,4,4,4,Champions
+123,2.0,92,1710.84,4,4,3,Loyal regulars
+464,2.0,92,2055.03,4,4,4,Champions
+273,2.0,94,1801.09,4,4,4,Champions
+1113,2.0,94,2185.81,4,4,4,Champions
+2375,2.0,94,2210.3,4,4,4,Champions
+1943,2.0,94,2485.12,4,4,4,Champions
+1764,2.0,94,8828.9,4,4,5,Champions
+1816,2.0,95,1903.37,4,4,4,Champions
+2034,2.0,97,2306.17,4,4,4,Champions
+411,2.0,97,4649.22,4,4,5,Champions
+1585,2.0,97,5686.25,4,4,5,Champions
+868,2.0,98,4281.64,4,5,5,Champions
+972,2.0,99,1497.11,4,5,3,Loyal regulars
+841,2.0,99,1600.65,4,5,3,Loyal regulars
+1222,2.0,99,3370.23,4,5,5,Champions
+745,2.0,99,3977.55,4,5,5,Champions
+1726,2.0,100,4710.64,4,5,5,Champions
+2307,2.0,102,3675.48,4,5,5,Champions
+2438,2.0,103,1480.01,4,5,3,Loyal regulars
+1788,2.0,103,5846.5,4,5,5,Champions
+2378,2.0,108,6434.79,4,5,5,Champions
+1180,2.0,110,3888.64,4,5,5,Champions
+467,2.0,111,1729.99,4,5,4,Champions
+1803,2.0,111,6821.14,4,5,5,Champions
+670,2.0,113,3220.1,4,5,5,Champions
+2451,2.0,113,5052.28,4,5,5,Champions
+1988,2.0,115,4709.58,4,5,5,Champions
+1128,2.0,116,1592.16,4,5,3,Loyal regulars
+598,2.0,116,2134.31,4,5,4,Champions
+1138,2.0,116,2515.03,4,5,4,Champions
+1306,2.0,124,1889.11,4,5,4,Champions
+56,2.0,124,4115.69,4,5,5,Champions
+404,2.0,125,2785.84,4,5,4,Champions
+2380,2.0,126,3657.57,4,5,5,Champions
+328,2.0,126,9194.75,4,5,5,Champions
+98,2.0,127,1816.91,4,5,4,Champions
+67,2.0,132,5088.27,4,5,5,Champions
+712,2.0,136,6201.54,4,5,5,Champions
+426,2.0,138,4866.13,4,5,5,Champions
+397,2.0,139,3334.53,4,5,5,Champions
+1338,2.0,141,1161.76,4,5,3,Loyal regulars
+929,2.0,142,3312.74,4,5,5,Champions
+1272,2.0,143,5379.51,4,5,5,Champions
+1066,2.0,146,1881.31,4,5,4,Champions
+1434,2.0,146,2648.11,4,5,4,Champions
+2280,2.0,148,7387.96,4,5,5,Champions
+636,2.0,149,6293.93,4,5,5,Champions
+955,2.0,152,2462.25,4,5,4,Champions
+1491,2.0,153,3264.98,4,5,5,Champions
+95,2.0,158,4047.67,4,5,5,Champions
+523,2.0,161,3686.24,4,5,5,Champions
+714,2.0,171,2386.2,4,5,4,Champions
+1742,2.0,172,1410.65,4,5,3,Loyal regulars
+1759,2.0,174,2802.63,4,5,4,Champions
+679,2.0,181,3719.82,4,5,5,Champions
+125,2.0,199,5433.57,4,5,5,Champions
+40,2.0,239,7873.99,4,5,5,Champions
+307,2.0,250,1628.42,4,5,3,Loyal regulars
+334,2.0,260,2574.19,4,5,4,Champions
+707,2.0,295,11491.56,4,5,5,Champions
+1740,2.0,320,9994.91,4,5,5,Champions
+1656,3.0,6,320.98,4,1,1,New or occasional
+368,3.0,9,264.1,4,1,1,New or occasional
+233,3.0,9,281.69,4,1,1,New or occasional
+9,3.0,11,620.73,4,1,2,New or occasional
+1818,3.0,13,107.16,4,1,1,New or occasional
+1290,3.0,18,493.75,4,1,2,New or occasional
+935,3.0,18,589.81,4,1,2,New or occasional
+865,3.0,18,950.52,4,1,2,New or occasional
+1373,3.0,20,309.14,4,2,1,New or occasional
+1841,3.0,20,1524.11,4,2,3,New or occasional
+424,3.0,20,2000.91,4,2,4,New or occasional
+577,3.0,20,2187.69,4,2,4,New or occasional
+1637,3.0,21,289.78,4,2,1,New or occasional
+2174,3.0,21,309.98,4,2,1,New or occasional
+984,3.0,23,844.5,4,2,2,New or occasional
+1019,3.0,24,690.4,4,2,2,New or occasional
+2386,3.0,24,700.17,4,2,2,New or occasional
+477,3.0,25,335.43,4,2,1,New or occasional
+194,3.0,26,729.78,4,2,2,New or occasional
+954,3.0,27,1322.55,4,2,3,New or occasional
+388,3.0,28,648.85,4,2,2,New or occasional
+769,3.0,28,679.2,4,2,2,New or occasional
+750,3.0,30,363.5,4,2,1,New or occasional
+1569,3.0,31,460.97,4,2,2,New or occasional
+1165,3.0,32,792.5,4,2,2,New or occasional
+2267,3.0,32,1001.7,4,2,3,New or occasional
+1136,3.0,33,748.15,4,2,2,New or occasional
+1586,3.0,34,1096.05,4,2,3,New or occasional
+108,3.0,34,1613.18,4,2,3,New or occasional
+770,3.0,34,1647.88,4,2,3,New or occasional
+447,3.0,35,453.45,4,2,2,New or occasional
+2229,3.0,36,1554.72,4,3,3,Loyal regulars
+1316,3.0,37,2435.23,4,3,4,Loyal regulars
+2302,3.0,40,1072.62,4,3,3,Loyal regulars
+1418,3.0,40,1484.32,4,3,3,Loyal regulars
+2285,3.0,41,1285.53,4,3,3,Loyal regulars
+1961,3.0,42,646.21,4,3,2,Loyal regulars
+1450,3.0,42,814.66,4,3,2,Loyal regulars
+1331,3.0,42,843.34,4,3,2,Loyal regulars
+2181,3.0,43,2410.13,4,3,4,Loyal regulars
+251,3.0,44,1054.75,4,3,3,Loyal regulars
+1515,3.0,44,1921.56,4,3,4,Loyal regulars
+1267,3.0,45,1127.86,4,3,3,Loyal regulars
+1246,3.0,45,2054.0,4,3,4,Loyal regulars
+430,3.0,46,1234.17,4,3,3,Loyal regulars
+41,3.0,46,2063.28,4,3,4,Loyal regulars
+1001,3.0,46,2558.82,4,3,4,Loyal regulars
+2374,3.0,46,3954.76,4,3,5,Loyal regulars
+1785,3.0,47,1107.86,4,3,3,Loyal regulars
+32,3.0,47,1584.2,3,3,3,Loyal regulars
+2354,3.0,47,2939.84,3,3,4,Loyal regulars
+976,3.0,47,4085.76,3,3,5,Loyal regulars
+593,3.0,48,531.2,3,3,2,Loyal regulars
+562,3.0,48,1962.74,3,3,4,Loyal regulars
+1777,3.0,49,790.72,3,3,2,Loyal regulars
+1933,3.0,49,1272.97,3,3,3,Loyal regulars
+1186,3.0,49,3721.98,3,3,5,Loyal regulars
+959,3.0,50,901.04,3,3,2,Loyal regulars
+42,3.0,50,1085.56,3,3,3,Loyal regulars
+816,3.0,54,1591.23,3,3,3,Loyal regulars
+1157,3.0,56,1561.57,3,3,3,Loyal regulars
+2260,3.0,57,2789.55,3,3,4,Loyal regulars
+1857,3.0,59,1450.21,3,4,3,Loyal regulars
+1053,3.0,59,3202.38,3,4,5,Loyal regulars
+797,3.0,60,1893.23,3,4,4,Loyal regulars
+1826,3.0,61,831.88,3,4,2,Loyal regulars
+74,3.0,61,1076.71,3,4,3,Loyal regulars
+741,3.0,61,2241.1,3,4,4,Loyal regulars
+491,3.0,61,2417.46,3,4,4,Loyal regulars
+1010,3.0,62,1733.55,3,4,4,Loyal regulars
+596,3.0,62,1741.73,3,4,4,Loyal regulars
+1695,3.0,63,416.97,3,4,1,Loyal regulars
+1169,3.0,63,2351.0,3,4,4,Loyal regulars
+1219,3.0,64,440.19,3,4,1,Loyal regulars
+1425,3.0,64,2083.32,3,4,4,Loyal regulars
+1847,3.0,65,1658.36,3,4,3,Loyal regulars
+392,3.0,65,7015.56,3,4,5,Loyal regulars
+820,3.0,67,1321.0,3,4,3,Loyal regulars
+953,3.0,67,1462.26,3,4,3,Loyal regulars
+412,3.0,67,1484.64,3,4,3,Loyal regulars
+443,3.0,67,2014.81,3,4,4,Loyal regulars
+1484,3.0,71,1849.42,3,4,4,Loyal regulars
+1247,3.0,72,4093.14,3,4,5,Loyal regulars
+1556,3.0,73,2017.22,3,4,4,Loyal regulars
+1953,3.0,73,2112.7,3,4,4,Loyal regulars
+1260,3.0,73,5183.68,3,4,5,Loyal regulars
+1806,3.0,76,2263.43,3,4,4,Loyal regulars
+2114,3.0,78,1679.75,3,4,3,Loyal regulars
+1594,3.0,78,1821.83,3,4,4,Loyal regulars
+2440,3.0,79,1506.32,3,4,3,Loyal regulars
+1160,3.0,80,2224.51,3,4,4,Loyal regulars
+2281,3.0,80,3541.77,3,4,5,Loyal regulars
+104,3.0,82,4295.24,3,4,5,Loyal regulars
+859,3.0,83,3594.16,3,4,5,Loyal regulars
+2317,3.0,83,7771.54,3,4,5,Loyal regulars
+250,3.0,84,4156.46,3,4,5,Loyal regulars
+939,3.0,85,2942.17,3,4,4,Loyal regulars
+1167,3.0,85,3842.2,3,4,5,Loyal regulars
+105,3.0,87,2150.97,3,4,4,Loyal regulars
+2292,3.0,88,1061.68,3,4,3,Loyal regulars
+605,3.0,89,4318.42,3,4,5,Loyal regulars
+633,3.0,93,2964.26,3,4,4,Loyal regulars
+469,3.0,93,3962.63,3,4,5,Loyal regulars
+1317,3.0,96,1803.07,3,4,4,Loyal regulars
+414,3.0,99,1661.4,3,5,3,Loyal regulars
+361,3.0,99,4365.52,3,5,5,Loyal regulars
+172,3.0,104,1110.04,3,5,3,Loyal regulars
+57,3.0,104,1664.4,3,5,3,Loyal regulars
+1293,3.0,105,2067.45,3,5,4,Loyal regulars
+2053,3.0,105,2073.58,3,5,4,Loyal regulars
+2407,3.0,110,4335.83,3,5,5,Loyal regulars
+158,3.0,111,1126.33,3,5,3,Loyal regulars
+2097,3.0,111,4923.62,3,5,5,Loyal regulars
+1677,3.0,111,7352.38,3,5,5,Loyal regulars
+258,3.0,115,1180.56,3,5,3,Loyal regulars
+1545,3.0,122,2590.4,3,5,4,Loyal regulars
+2124,3.0,125,4418.31,3,5,5,Loyal regulars
+209,3.0,127,4577.96,3,5,5,Loyal regulars
+1428,3.0,130,3792.13,3,5,5,Loyal regulars
+1754,3.0,131,2730.2,3,5,4,Loyal regulars
+2498,3.0,135,2278.44,3,5,4,Loyal regulars
+69,3.0,139,3729.47,3,5,5,Loyal regulars
+239,3.0,140,2397.41,3,5,4,Loyal regulars
+1042,3.0,148,2980.28,3,5,4,Loyal regulars
+560,3.0,148,3472.51,3,5,5,Loyal regulars
+1778,3.0,154,5395.3,3,5,5,Loyal regulars
+432,3.0,158,2044.65,3,5,4,Loyal regulars
+2412,3.0,159,8274.91,3,5,5,Loyal regulars
+378,3.0,168,2288.71,3,5,4,Loyal regulars
+1451,3.0,172,4442.99,3,5,5,Loyal regulars
+1804,3.0,179,5956.56,3,5,5,Loyal regulars
+1305,3.0,186,4159.84,3,5,5,Loyal regulars
+2334,3.0,187,7037.56,3,5,5,Loyal regulars
+567,3.0,188,2400.83,3,5,4,Loyal regulars
+2432,3.0,188,3768.44,3,5,5,Loyal regulars
+2207,3.0,211,3313.45,3,5,5,Loyal regulars
+2085,3.0,225,8394.74,3,5,5,Loyal regulars
+1767,3.0,272,5419.37,3,5,5,Loyal regulars
+1058,3.0,318,2195.57,3,5,4,Loyal regulars
+957,3.0,332,2237.06,3,5,4,Loyal regulars
+842,3.0,334,5635.96,3,5,5,Loyal regulars
+1579,3.0,343,7270.54,3,5,5,Loyal regulars
+718,3.0,353,10687.43,3,5,5,Loyal regulars
+771,3.0,367,5611.17,3,5,5,Loyal regulars
+909,3.0,369,7061.14,3,5,5,Loyal regulars
+1221,4.0,5,309.14,3,1,1,Middle of the road
+1706,4.0,6,150.88,3,1,1,Middle of the road
+839,4.0,6,574.92,3,1,2,Middle of the road
+1576,4.0,7,151.59,3,1,1,Middle of the road
+2061,4.0,8,96.73,3,1,1,Middle of the road
+1880,4.0,9,146.27,3,1,1,Middle of the road
+2218,4.0,10,439.43,3,1,1,Middle of the road
+789,4.0,11,169.72,3,1,1,Middle of the road
+528,4.0,12,259.53,3,1,1,Middle of the road
+1095,4.0,16,283.06,3,1,1,Middle of the road
+2490,4.0,17,296.16,3,1,1,Middle of the road
+537,4.0,17,681.46,3,1,2,Middle of the road
+2161,4.0,17,915.2,3,1,2,Middle of the road
+2074,4.0,18,303.7,3,1,1,Middle of the road
+2078,4.0,18,364.84,3,1,1,Middle of the road
+592,4.0,18,389.67,3,1,1,Middle of the road
+59,4.0,18,926.8,3,1,2,Middle of the road
+1895,4.0,19,279.08,3,1,1,Middle of the road
+476,4.0,19,813.9,3,2,2,Middle of the road
+1259,4.0,21,638.72,3,2,2,Middle of the road
+254,4.0,23,255.19,3,2,1,Middle of the road
+1739,4.0,23,575.31,3,2,2,Middle of the road
+1999,4.0,24,237.89,3,2,1,Middle of the road
+1068,4.0,25,420.54,3,2,1,Middle of the road
+1884,4.0,25,503.08,3,2,2,Middle of the road
+1743,4.0,26,536.12,3,2,2,Middle of the road
+1077,4.0,26,1085.81,3,2,3,Middle of the road
+1792,4.0,27,586.45,3,2,2,Middle of the road
+604,4.0,27,939.09,3,2,2,Middle of the road
+2080,4.0,28,2263.63,3,2,4,Middle of the road
+521,4.0,30,536.96,3,2,2,Middle of the road
+2223,4.0,31,305.11,3,2,1,Middle of the road
+824,4.0,31,687.26,3,2,2,Middle of the road
+2038,4.0,32,874.79,3,2,2,Middle of the road
+7,4.0,32,1952.37,3,2,4,Middle of the road
+217,4.0,33,1283.24,3,2,3,Middle of the road
+1182,4.0,34,486.49,3,2,2,Middle of the road
+15,4.0,34,637.31,3,2,2,Middle of the road
+847,4.0,35,999.1,3,2,3,Middle of the road
+736,4.0,36,1788.92,3,3,4,Loyal regulars
+1684,4.0,37,1110.21,3,3,3,Loyal regulars
+248,4.0,37,2923.89,3,3,4,Loyal regulars
+435,4.0,38,565.94,3,3,2,Loyal regulars
+2037,4.0,38,643.35,3,3,2,Loyal regulars
+2117,4.0,38,646.75,3,3,2,Loyal regulars
+1225,4.0,38,783.39,3,3,2,Loyal regulars
+776,4.0,38,1161.44,3,3,3,Loyal regulars
+2389,4.0,39,807.3,3,3,2,Loyal regulars
+1738,4.0,39,880.18,3,3,2,Loyal regulars
+2349,4.0,39,1121.1,3,3,3,Loyal regulars
+798,4.0,40,1089.34,3,3,3,Loyal regulars
+224,4.0,41,1259.27,3,3,3,Loyal regulars
+925,4.0,42,189.3,3,3,1,Loyal regulars
+279,4.0,43,1467.96,3,3,3,Loyal regulars
+1747,4.0,43,1520.27,3,3,3,Loyal regulars
+31,4.0,43,2794.95,3,3,4,Loyal regulars
+2398,4.0,44,1185.28,3,3,3,Loyal regulars
+2358,4.0,44,1393.95,3,3,3,Loyal regulars
+362,4.0,45,1615.93,3,3,3,Loyal regulars
+735,4.0,46,496.2,3,3,2,Loyal regulars
+986,4.0,46,994.02,3,3,3,Loyal regulars
+2140,4.0,49,1515.11,3,3,3,Loyal regulars
+441,4.0,50,1387.79,3,3,3,Loyal regulars
+1181,4.0,54,1320.86,3,3,3,Loyal regulars
+2441,4.0,55,655.37,3,3,2,Loyal regulars
+1928,4.0,59,1167.7,3,3,3,Loyal regulars
+1440,4.0,61,1350.17,3,4,3,Loyal regulars
+83,4.0,62,601.03,3,4,2,Loyal regulars
+2447,4.0,62,3452.61,3,4,5,Loyal regulars
+212,4.0,63,1683.43,3,4,3,Loyal regulars
+2347,4.0,63,2321.51,3,4,4,Loyal regulars
+1291,4.0,65,2319.05,3,4,4,Loyal regulars
+2088,4.0,65,3107.87,3,4,5,Loyal regulars
+992,4.0,68,431.94,3,4,1,Loyal regulars
+2364,4.0,70,4576.99,3,4,5,Loyal regulars
+2416,4.0,71,2606.5,3,4,4,Loyal regulars
+2294,4.0,72,3173.13,3,4,5,Loyal regulars
+740,4.0,72,4056.58,3,4,5,Loyal regulars
+985,4.0,73,1448.6,3,4,3,Loyal regulars
+952,4.0,75,1428.45,3,4,3,Loyal regulars
+1627,4.0,78,2467.45,3,4,4,Loyal regulars
+527,4.0,79,2340.74,3,4,4,Loyal regulars
+1536,4.0,79,3677.13,3,4,5,Loyal regulars
+2328,4.0,79,6878.14,3,4,5,Loyal regulars
+380,4.0,80,4385.32,3,4,5,Loyal regulars
+1640,4.0,81,2346.09,3,4,4,Loyal regulars
+1285,4.0,82,3028.78,3,4,4,Loyal regulars
+65,4.0,84,1355.52,3,4,3,Loyal regulars
+2109,4.0,84,1705.07,3,4,3,Loyal regulars
+513,4.0,85,6443.42,3,4,5,Loyal regulars
+2489,4.0,86,6194.48,3,4,5,Loyal regulars
+329,4.0,88,1859.95,3,4,4,Loyal regulars
+595,4.0,92,1557.43,3,4,3,Loyal regulars
+1692,4.0,99,1334.19,3,5,3,Loyal regulars
+2245,4.0,101,2415.9,3,5,4,Loyal regulars
+1923,4.0,103,2987.23,3,5,4,Loyal regulars
+345,4.0,105,3707.27,3,5,5,Loyal regulars
+1567,4.0,109,1259.25,3,5,3,Loyal regulars
+1526,4.0,117,1654.98,3,5,3,Loyal regulars
+1557,4.0,117,3799.45,3,5,5,Loyal regulars
+99,4.0,119,3492.31,3,5,5,Loyal regulars
+1062,4.0,121,644.33,3,5,2,Loyal regulars
+1854,4.0,126,3728.22,3,5,5,Loyal regulars
+2395,4.0,127,2662.64,3,5,4,Loyal regulars
+88,4.0,132,6711.66,3,5,5,Loyal regulars
+243,4.0,138,4655.36,3,5,5,Loyal regulars
+303,4.0,139,3313.53,3,5,5,Loyal regulars
+1722,4.0,153,5861.68,3,5,5,Loyal regulars
+1748,4.0,163,3457.98,3,5,5,Loyal regulars
+742,4.0,171,2180.65,3,5,4,Loyal regulars
+232,4.0,214,5919.22,3,5,5,Loyal regulars
+1320,5.0,9,159.3,3,1,1,Middle of the road
+505,5.0,10,121.93,3,1,1,Middle of the road
+488,5.0,11,191.97,3,1,1,Middle of the road
+1036,5.0,11,320.12,3,1,1,Middle of the road
+375,5.0,13,124.84,3,1,1,Middle of the road
+267,5.0,13,246.74,3,1,1,Middle of the road
+1202,5.0,13,318.51,3,1,1,Middle of the road
+2025,5.0,14,501.34,3,1,2,Middle of the road
+2495,5.0,15,173.29,3,1,1,Middle of the road
+446,5.0,18,121.59,3,1,1,Middle of the road
+314,5.0,21,1718.82,3,2,3,Middle of the road
+1389,5.0,23,1498.65,3,2,3,Middle of the road
+1034,5.0,26,236.57,3,2,1,Middle of the road
+1294,5.0,29,3119.88,3,2,5,Middle of the road
+39,5.0,30,1938.99,3,2,4,Middle of the road
+2036,5.0,30,2655.69,3,2,4,Middle of the road
+1827,5.0,32,533.65,3,2,2,Middle of the road
+1587,5.0,34,467.49,3,2,2,Middle of the road
+594,5.0,34,1211.19,3,2,3,Middle of the road
+2021,5.0,36,659.7,3,3,2,Loyal regulars
+490,5.0,39,2133.18,3,3,4,Loyal regulars
+1168,5.0,41,551.66,3,3,2,Loyal regulars
+2282,5.0,43,584.45,3,3,2,Loyal regulars
+924,5.0,43,1173.29,3,3,3,Loyal regulars
+520,5.0,47,872.92,3,3,2,Loyal regulars
+118,5.0,47,2609.33,3,3,4,Loyal regulars
+901,5.0,48,1599.59,3,3,3,Loyal regulars
+2028,5.0,49,901.07,3,3,2,Loyal regulars
+888,5.0,49,5502.97,3,3,5,Loyal regulars
+1429,5.0,50,428.1,3,3,1,Loyal regulars
+402,5.0,50,1414.75,3,3,3,Loyal regulars
+2241,5.0,51,1033.36,3,3,3,Loyal regulars
+1681,5.0,51,1543.24,3,3,3,Loyal regulars
+456,5.0,53,3231.85,3,3,5,Loyal regulars
+964,5.0,55,1231.1,3,3,3,Loyal regulars
+2331,5.0,55,3063.42,3,3,4,Loyal regulars
+1018,5.0,56,974.3,3,3,3,Loyal regulars
+1922,5.0,59,1934.64,3,4,4,Loyal regulars
+1085,5.0,67,3280.58,3,4,5,Loyal regulars
+871,5.0,70,5586.18,3,4,5,Loyal regulars
+647,5.0,71,3493.5,3,4,5,Loyal regulars
+216,5.0,72,1731.07,3,4,4,Loyal regulars
+1383,5.0,73,862.15,3,4,2,Loyal regulars
+257,5.0,73,1628.94,3,4,3,Loyal regulars
+1104,5.0,74,2480.1,3,4,4,Loyal regulars
+353,5.0,74,2593.14,3,4,4,Loyal regulars
+1470,5.0,75,1054.63,3,4,3,Loyal regulars
+193,5.0,75,2955.06,3,4,4,Loyal regulars
+1591,5.0,76,3322.55,3,4,5,Loyal regulars
+709,5.0,80,2800.46,3,4,4,Loyal regulars
+1720,5.0,84,3507.23,3,4,5,Loyal regulars
+2199,5.0,86,3118.71,3,4,5,Loyal regulars
+1070,5.0,88,2542.37,3,4,4,Loyal regulars
+1954,5.0,93,1309.67,3,4,3,Loyal regulars
+1394,5.0,93,2512.15,3,4,4,Loyal regulars
+2204,5.0,97,1263.32,3,4,3,Loyal regulars
+2129,5.0,99,4497.44,3,5,5,Loyal regulars
+2370,5.0,100,3165.77,3,5,5,Loyal regulars
+787,5.0,113,1456.42,3,5,3,Loyal regulars
+1619,5.0,116,2744.3,3,5,4,Loyal regulars
+1445,5.0,124,3661.25,3,5,5,Loyal regulars
+608,5.0,125,3176.33,3,5,5,Loyal regulars
+2449,5.0,148,5414.15,3,5,5,Loyal regulars
+998,5.0,152,4840.55,3,5,5,Loyal regulars
+755,5.0,155,5767.72,3,5,5,Loyal regulars
+287,5.0,158,2008.71,3,5,4,Loyal regulars
+1111,5.0,162,12368.36,3,5,5,Loyal regulars
+2341,5.0,176,3347.06,3,5,5,Loyal regulars
+1276,7.0,6,226.6,3,1,1,Middle of the road
+2396,7.0,7,286.15,3,1,1,Middle of the road
+774,7.0,7,425.6,3,1,1,Middle of the road
+792,7.0,9,182.58,3,1,1,Middle of the road
+1292,7.0,9,263.42,3,1,1,Middle of the road
+255,7.0,9,292.23,3,1,1,Middle of the road
+277,7.0,11,588.16,3,1,2,Middle of the road
+1667,7.0,12,128.71,3,1,1,Middle of the road
+30,7.0,12,246.34,3,1,1,Middle of the road
+910,7.0,13,866.67,3,1,2,Middle of the road
+751,7.0,14,221.57,3,1,1,Middle of the road
+1868,7.0,14,271.99,3,1,1,Middle of the road
+349,7.0,14,365.8,3,1,1,Middle of the road
+938,7.0,14,750.26,3,1,2,Middle of the road
+449,7.0,15,285.32,3,1,1,Middle of the road
+238,7.0,15,295.05,3,1,1,Middle of the road
+1426,7.0,15,642.69,3,1,2,Middle of the road
+1701,7.0,16,887.82,3,1,2,Middle of the road
+1552,7.0,19,439.86,3,1,1,Middle of the road
+1471,7.0,20,249.0,3,2,1,Middle of the road
+812,7.0,20,428.5,3,2,1,Middle of the road
+1572,7.0,20,849.71,3,2,2,Middle of the road
+2127,7.0,20,1210.02,3,2,3,Middle of the road
+1891,7.0,21,790.15,3,2,2,Middle of the road
+1870,7.0,22,194.16,3,2,1,Middle of the road
+244,7.0,22,896.02,3,2,2,Middle of the road
+1782,7.0,22,1023.58,3,2,3,Middle of the road
+385,7.0,22,1705.94,3,2,3,Middle of the road
+590,7.0,23,447.64,3,2,2,Middle of the road
+1615,7.0,24,299.85,3,2,1,Middle of the road
+2442,7.0,24,359.57,3,2,1,Middle of the road
+403,7.0,24,507.28,3,2,2,Middle of the road
+858,7.0,25,231.52,3,2,1,Middle of the road
+1198,7.0,26,532.81,3,2,2,Middle of the road
+427,7.0,27,465.09,3,2,2,Middle of the road
+2242,7.0,28,459.61,3,2,2,Middle of the road
+1817,7.0,28,711.01,3,2,2,Middle of the road
+1548,7.0,28,787.16,3,2,2,Middle of the road
+1485,7.0,29,862.6,3,2,2,Middle of the road
+2472,7.0,29,914.92,3,2,2,Middle of the road
+1460,7.0,29,1319.62,3,2,3,Middle of the road
+497,7.0,30,322.63,3,2,1,Middle of the road
+650,7.0,30,500.89,3,2,2,Middle of the road
+1946,7.0,30,2577.74,3,2,4,Middle of the road
+673,7.0,31,420.42,3,2,1,Middle of the road
+2035,7.0,31,452.47,3,2,2,Middle of the road
+668,7.0,31,630.95,3,2,2,Middle of the road
+269,7.0,31,805.56,3,2,2,Middle of the road
+2430,7.0,32,1087.74,3,2,3,Middle of the road
+681,7.0,32,1343.91,3,2,3,Middle of the road
+317,7.0,32,3272.49,3,2,5,Middle of the road
+1340,7.0,33,292.83,3,2,1,Middle of the road
+482,7.0,33,592.91,3,2,2,Middle of the road
+945,7.0,33,1293.98,3,2,3,Middle of the road
+1559,7.0,33,1437.14,3,2,3,Middle of the road
+77,7.0,35,2350.71,3,3,4,Loyal regulars
+698,7.0,37,403.1,3,3,1,Loyal regulars
+897,7.0,37,412.36,3,3,1,Loyal regulars
+1760,7.0,38,300.93,3,3,1,Loyal regulars
+84,7.0,38,848.27,3,3,2,Loyal regulars
+2043,7.0,41,1050.52,3,3,3,Loyal regulars
+1683,7.0,42,960.07,3,3,3,Loyal regulars
+903,7.0,42,1900.16,3,3,4,Loyal regulars
+2144,7.0,43,2103.65,3,3,4,Loyal regulars
+782,7.0,44,918.91,3,3,2,Loyal regulars
+2450,7.0,44,1416.31,3,3,3,Loyal regulars
+538,7.0,45,2914.92,3,3,4,Loyal regulars
+1577,7.0,46,2286.4,3,3,4,Loyal regulars
+26,7.0,47,934.43,3,3,2,Loyal regulars
+1651,7.0,47,1455.86,3,3,3,Loyal regulars
+611,7.0,47,1529.75,3,3,3,Loyal regulars
+350,7.0,47,1611.4,3,3,3,Loyal regulars
+779,7.0,47,1794.9,3,3,4,Loyal regulars
+1385,7.0,47,2685.2,3,3,4,Loyal regulars
+2006,7.0,48,2011.47,3,3,4,Loyal regulars
+2288,7.0,49,907.43,3,3,2,Loyal regulars
+2069,7.0,49,910.15,3,3,2,Loyal regulars
+1800,7.0,50,2274.1,3,3,4,Loyal regulars
+1765,7.0,50,2458.2,3,3,4,Loyal regulars
+2141,7.0,50,2808.65,3,3,4,Loyal regulars
+2295,7.0,50,3983.51,3,3,5,Loyal regulars
+667,7.0,51,759.14,3,3,2,Loyal regulars
+1346,7.0,51,849.35,3,3,2,Loyal regulars
+159,7.0,51,1272.78,3,3,3,Loyal regulars
+1488,7.0,51,2225.81,3,3,4,Loyal regulars
+1412,7.0,52,2859.78,3,3,4,Loyal regulars
+1499,7.0,53,1333.14,3,3,3,Loyal regulars
+495,7.0,53,1888.51,3,3,4,Loyal regulars
+112,7.0,54,912.46,3,3,2,Loyal regulars
+214,7.0,54,1763.78,3,3,4,Loyal regulars
+1207,7.0,55,433.49,3,3,1,Loyal regulars
+2272,7.0,55,1614.25,3,3,3,Loyal regulars
+405,7.0,56,1950.66,3,3,4,Loyal regulars
+873,7.0,57,1676.83,3,3,3,Loyal regulars
+1732,7.0,57,1965.66,3,3,4,Loyal regulars
+1474,7.0,58,1908.35,3,3,4,Loyal regulars
+401,7.0,59,1610.98,3,4,3,Loyal regulars
+1541,7.0,59,4536.66,3,4,5,Loyal regulars
+1312,7.0,61,2114.81,3,4,4,Loyal regulars
+483,7.0,65,1712.59,3,4,3,Loyal regulars
+1927,7.0,68,3300.87,3,4,5,Loyal regulars
+43,7.0,69,624.66,3,4,2,Loyal regulars
+2478,7.0,69,1375.29,3,4,3,Loyal regulars
+1862,7.0,70,1126.16,3,4,3,Loyal regulars
+932,7.0,71,3053.89,3,4,4,Loyal regulars
+2208,7.0,75,4044.57,3,4,5,Loyal regulars
+1347,7.0,76,2172.26,3,4,4,Loyal regulars
+1749,7.0,79,2516.41,3,4,4,Loyal regulars
+1163,7.0,80,2700.18,3,4,4,Loyal regulars
+674,7.0,80,3160.81,3,4,5,Loyal regulars
+766,7.0,80,5354.58,3,4,5,Loyal regulars
+470,7.0,81,1213.72,3,4,3,Loyal regulars
+922,7.0,81,1704.93,3,4,3,Loyal regulars
+1517,7.0,83,2443.06,3,4,4,Loyal regulars
+484,7.0,84,1881.75,3,4,4,Loyal regulars
+1011,7.0,85,1908.99,3,4,4,Loyal regulars
+1599,7.0,86,3942.64,3,4,5,Loyal regulars
+1391,7.0,90,4295.85,3,4,5,Loyal regulars
+1256,7.0,91,2785.53,3,4,4,Loyal regulars
+249,7.0,92,1910.8,3,4,4,Loyal regulars
+2367,7.0,93,2783.24,3,4,4,Loyal regulars
+356,7.0,98,1625.45,3,4,3,Loyal regulars
+79,7.0,100,2548.51,3,5,4,Loyal regulars
+1602,7.0,100,3673.36,3,5,5,Loyal regulars
+1944,7.0,100,6167.67,3,5,5,Loyal regulars
+2227,7.0,101,2933.96,3,5,4,Loyal regulars
+908,7.0,102,3176.42,3,5,5,Loyal regulars
+653,7.0,103,5502.66,3,5,5,Loyal regulars
+1763,7.0,116,2989.27,3,5,4,Loyal regulars
+1623,7.0,117,3126.81,3,5,5,Loyal regulars
+2359,7.0,123,1846.79,3,5,4,Loyal regulars
+1282,7.0,127,3791.1,3,5,5,Loyal regulars
+1279,7.0,129,3101.89,3,5,5,Loyal regulars
+731,7.0,139,2072.73,3,5,4,Loyal regulars
+1924,7.0,140,4010.53,3,5,5,Loyal regulars
+1810,7.0,146,2268.17,3,5,4,Loyal regulars
+2071,7.0,172,1367.34,3,5,3,Loyal regulars
+253,7.0,181,5300.0,3,5,5,Loyal regulars
+2264,7.0,188,9890.74,3,5,5,Loyal regulars
+2040,7.0,197,1417.49,3,5,3,Loyal regulars
+1936,7.0,283,2952.81,3,5,4,Loyal regulars
+936,7.0,331,5096.7,3,5,5,Loyal regulars
+956,7.0,333,5606.09,3,5,5,Loyal regulars
+1023,7.0,375,24879.75,3,5,5,Loyal regulars
+1789,8.0,8,150.08,3,1,1,Middle of the road
+1149,8.0,9,115.48,3,1,1,Middle of the road
+1101,8.0,9,119.12,3,1,1,Middle of the road
+579,8.0,9,162.94,3,1,1,Middle of the road
+659,8.0,9,459.11,3,1,2,Middle of the road
+765,8.0,9,475.14,3,1,2,Middle of the road
+554,8.0,9,687.08,3,1,2,Middle of the road
+2165,8.0,10,179.31,3,1,1,Middle of the road
+756,8.0,10,349.52,3,1,1,Middle of the road
+1533,8.0,11,104.14,3,1,1,Middle of the road
+147,8.0,13,477.78,3,1,2,Middle of the road
+2251,8.0,14,1080.3,3,1,3,Middle of the road
+719,8.0,15,348.49,3,1,1,Middle of the road
+1030,8.0,15,550.71,3,1,2,Middle of the road
+2213,8.0,17,542.74,3,1,2,Middle of the road
+1106,8.0,20,475.33,3,2,2,Middle of the road
+2460,8.0,20,731.19,3,2,2,Middle of the road
+652,8.0,22,739.6,3,2,2,Middle of the road
+1643,8.0,22,886.61,3,2,2,Middle of the road
+1438,8.0,22,1218.53,3,2,3,Middle of the road
+2482,8.0,24,669.16,3,2,2,Middle of the road
+2319,8.0,24,680.81,3,2,2,Middle of the road
+627,8.0,24,1075.7,3,2,3,Middle of the road
+1977,8.0,25,340.29,3,2,1,Middle of the road
+846,8.0,26,797.14,3,2,2,Middle of the road
+2179,8.0,26,802.32,3,2,2,Middle of the road
+2363,8.0,27,520.04,3,2,2,Middle of the road
+87,8.0,28,856.68,3,2,2,Middle of the road
+475,8.0,29,812.89,3,2,2,Middle of the road
+419,8.0,29,908.02,3,2,2,Middle of the road
+1064,8.0,29,1974.24,3,2,4,Middle of the road
+1929,8.0,29,2120.57,3,2,4,Middle of the road
+271,8.0,30,298.7,3,2,1,Middle of the road
+1060,8.0,31,3070.98,3,2,4,Middle of the road
+1427,8.0,32,1185.39,3,2,3,Middle of the road
+364,8.0,33,901.86,3,2,2,Middle of the road
+1268,8.0,33,1367.72,3,2,3,Middle of the road
+2410,8.0,33,1545.47,3,2,3,Middle of the road
+687,8.0,34,1844.18,3,2,4,Middle of the road
+1102,8.0,36,940.29,3,3,2,Loyal regulars
+2291,8.0,37,340.46,3,3,1,Loyal regulars
+1424,8.0,37,401.82,3,3,1,Loyal regulars
+2160,8.0,37,469.15,3,3,2,Loyal regulars
+962,8.0,37,959.04,3,3,3,Loyal regulars
+1351,8.0,38,246.02,3,3,1,Loyal regulars
+1724,8.0,38,1062.3,3,3,3,Loyal regulars
+2185,8.0,38,3342.58,3,3,5,Loyal regulars
+1055,8.0,39,501.23,3,3,2,Loyal regulars
+2182,8.0,39,577.23,3,3,2,Loyal regulars
+1819,8.0,39,1080.91,3,3,3,Loyal regulars
+940,8.0,40,647.66,3,3,2,Loyal regulars
+247,8.0,43,913.11,2,3,2,At risk
+790,8.0,44,2280.32,2,3,4,At risk
+2499,8.0,46,1926.51,2,3,4,At risk
+2372,8.0,46,2097.73,2,3,4,At risk
+133,8.0,46,2133.34,2,3,4,At risk
+2425,8.0,47,1538.01,2,3,3,At risk
+973,8.0,50,9416.83,2,3,5,At risk
+72,8.0,52,4314.55,2,3,5,At risk
+1304,8.0,56,497.54,2,3,2,At risk
+2305,8.0,56,3043.47,2,3,4,At risk
+1687,8.0,58,2231.67,2,3,4,At risk
+2361,8.0,58,3005.51,2,3,4,At risk
+1542,8.0,59,1047.23,2,3,3,At risk
+1971,8.0,60,1353.53,2,4,3,At risk
+2424,8.0,60,2278.13,2,4,4,At risk
+139,8.0,61,2018.89,2,4,4,At risk
+321,8.0,62,3293.43,2,4,5,At risk
+1388,8.0,64,3190.07,2,4,5,At risk
+1820,8.0,64,3712.4,2,4,5,At risk
+1618,8.0,65,2888.18,2,4,4,At risk
+28,8.0,69,1212.42,2,4,3,At risk
+891,8.0,70,4064.78,2,4,5,At risk
+365,8.0,74,3302.47,2,4,5,At risk
+409,8.0,77,2390.3,2,4,4,At risk
+806,8.0,77,3537.61,2,4,5,At risk
+1074,8.0,81,5209.22,2,4,5,At risk
+692,8.0,82,2493.71,2,4,4,At risk
+971,8.0,83,2457.35,2,4,4,At risk
+2121,8.0,86,3162.82,2,4,5,At risk
+786,8.0,90,4111.33,2,4,5,At risk
+1097,8.0,91,3578.17,2,4,5,At risk
+1995,8.0,93,9067.69,2,4,5,At risk
+2184,8.0,95,1854.29,2,4,4,At risk
+2405,8.0,95,2282.73,2,4,4,At risk
+451,8.0,97,1501.54,2,4,3,At risk
+1705,8.0,111,1146.12,2,5,3,At risk
+856,8.0,111,3143.62,2,5,5,At risk
+1103,8.0,116,3497.58,2,5,5,At risk
+693,8.0,127,3492.29,2,5,5,At risk
+926,8.0,131,3421.95,2,5,5,At risk
+898,8.0,181,4874.23,2,5,5,At risk
+2333,9.0,6,31.14,2,1,1,Lapsed
+628,9.0,7,653.74,2,1,2,Lapsed
+2214,9.0,9,201.91,2,1,1,Lapsed
+1532,9.0,9,277.86,2,1,1,Lapsed
+1811,9.0,10,506.48,2,1,2,Lapsed
+758,9.0,11,154.03,2,1,1,Lapsed
+2283,9.0,11,789.99,2,1,2,Lapsed
+550,9.0,12,302.14,2,1,1,Lapsed
+1033,9.0,12,640.02,2,1,2,Lapsed
+822,9.0,14,246.73,2,1,1,Lapsed
+501,9.0,14,366.29,2,1,1,Lapsed
+665,9.0,15,224.59,2,1,1,Lapsed
+795,9.0,15,434.28,2,1,1,Lapsed
+171,9.0,17,403.12,2,1,1,Lapsed
+461,9.0,19,374.43,2,1,1,Lapsed
+1439,9.0,20,295.67,2,2,1,Lapsed
+3,9.0,20,1026.63,2,2,3,Lapsed
+585,9.0,21,358.42,2,2,1,Lapsed
+1994,9.0,21,578.21,2,2,2,Lapsed
+2454,9.0,22,308.88,2,2,1,Lapsed
+2060,9.0,23,444.89,2,2,2,Lapsed
+2049,9.0,24,285.38,2,2,1,Lapsed
+551,9.0,25,397.04,2,2,1,Lapsed
+1713,9.0,25,1223.79,2,2,3,Lapsed
+931,9.0,25,2738.51,2,2,4,Lapsed
+94,9.0,26,275.15,2,2,1,Lapsed
+448,9.0,26,277.31,2,2,1,Lapsed
+189,9.0,26,544.86,2,2,2,Lapsed
+286,9.0,26,744.38,2,2,2,Lapsed
+999,9.0,26,957.67,2,2,3,Lapsed
+1500,9.0,28,390.15,2,2,1,Lapsed
+2002,9.0,28,1242.69,2,2,3,Lapsed
+433,9.0,30,269.9,2,2,1,Lapsed
+2048,9.0,32,1151.27,2,2,3,Lapsed
+1900,9.0,33,5064.98,2,2,5,Lapsed
+913,9.0,34,692.17,2,2,2,Lapsed
+1231,9.0,35,1119.33,2,2,3,Lapsed
+408,9.0,35,1692.85,2,2,3,Lapsed
+2326,9.0,37,960.37,2,3,3,At risk
+2250,9.0,37,1551.88,2,3,3,At risk
+1575,9.0,39,1281.8,2,3,3,At risk
+138,9.0,40,2198.41,2,3,4,At risk
+75,9.0,41,767.0,2,3,2,At risk
+2457,9.0,42,805.57,2,3,2,At risk
+177,9.0,43,952.01,2,3,2,At risk
+1015,9.0,47,1974.57,2,3,4,At risk
+2338,9.0,48,1495.97,2,3,3,At risk
+291,9.0,48,2002.78,2,3,4,At risk
+192,9.0,51,1915.55,2,3,4,At risk
+1960,9.0,53,1575.53,2,3,3,At risk
+17,9.0,54,2291.09,2,3,4,At risk
+1328,9.0,58,1168.36,2,3,3,At risk
+1463,9.0,58,1539.19,2,3,3,At risk
+319,9.0,58,2223.77,2,3,4,At risk
+896,9.0,58,2919.58,2,3,4,At risk
+1931,9.0,61,1489.33,2,4,3,At risk
+280,9.0,69,1400.71,2,4,3,At risk
+2455,9.0,69,3778.0,2,4,5,At risk
+2426,9.0,72,1524.23,2,4,3,At risk
+1861,9.0,77,1078.15,2,4,3,At risk
+2484,9.0,77,4473.95,2,4,5,At risk
+1982,9.0,89,2338.25,2,4,4,At risk
+1976,9.0,93,1759.47,2,4,4,At risk
+609,9.0,106,1243.69,2,5,3,At risk
+761,9.0,113,5576.0,2,5,5,At risk
+975,9.0,121,3109.64,2,5,5,At risk
+703,9.0,136,5591.88,2,5,5,At risk
+1663,9.0,137,1323.14,2,5,3,At risk
+1529,9.0,157,5370.58,2,5,5,At risk
+2312,9.0,184,8068.24,2,5,5,At risk
+1829,9.0,192,3943.1,2,5,5,At risk
+906,9.0,211,3820.59,2,5,5,At risk
+853,9.0,288,7194.3,2,5,5,At risk
+2001,10.0,7,297.55,2,1,1,Lapsed
+1952,10.0,11,279.64,2,1,1,Lapsed
+1904,10.0,12,119.54,2,1,1,Lapsed
+1521,10.0,12,230.49,2,1,1,Lapsed
+713,10.0,15,329.07,2,1,1,Lapsed
+2346,10.0,15,689.68,2,1,2,Lapsed
+617,10.0,15,707.96,2,1,2,Lapsed
+436,10.0,15,1150.85,2,1,3,Lapsed
+191,10.0,17,309.12,2,1,1,Lapsed
+152,10.0,18,697.67,2,1,2,Lapsed
+471,10.0,21,584.38,2,2,2,Lapsed
+1761,10.0,21,1221.04,2,2,3,Lapsed
+1581,10.0,22,1017.85,2,2,3,Lapsed
+1851,10.0,23,811.53,2,2,2,Lapsed
+1531,10.0,24,506.2,2,2,2,Lapsed
+1690,10.0,27,629.85,2,2,2,Lapsed
+1790,10.0,29,1386.23,2,2,3,Lapsed
+292,10.0,30,336.81,2,2,1,Lapsed
+524,10.0,30,466.15,2,2,2,Lapsed
+2297,10.0,30,471.2,2,2,2,Lapsed
+342,10.0,30,1196.98,2,2,3,Lapsed
+1940,10.0,31,1007.91,2,2,3,Lapsed
+1638,10.0,33,415.39,2,2,1,Lapsed
+48,10.0,33,751.83,2,2,2,Lapsed
+1067,10.0,33,2214.11,2,2,4,Lapsed
+1809,10.0,35,955.28,2,2,3,Lapsed
+259,10.0,37,847.62,2,3,2,At risk
+708,10.0,37,1474.78,2,3,3,At risk
+875,10.0,40,793.15,2,3,2,At risk
+1858,10.0,41,1901.53,2,3,4,At risk
+1330,10.0,42,996.21,2,3,3,At risk
+733,10.0,45,1623.43,2,3,3,At risk
+462,10.0,52,835.97,2,3,2,At risk
+1768,10.0,53,1102.01,2,3,3,At risk
+1932,10.0,56,2096.15,2,3,4,At risk
+656,10.0,57,3630.47,2,3,5,At risk
+684,10.0,58,1265.24,2,3,3,At risk
+132,10.0,60,1601.17,2,4,3,At risk
+1779,10.0,62,2392.39,2,4,4,At risk
+200,10.0,63,802.5,2,4,2,At risk
+1883,10.0,63,1636.81,2,4,3,At risk
+623,10.0,71,1657.97,2,4,3,At risk
+1248,10.0,75,4057.53,2,4,5,At risk
+121,10.0,79,1602.4,2,4,3,At risk
+2186,10.0,81,3476.49,2,4,5,At risk
+1942,10.0,83,1837.82,2,4,4,At risk
+1941,10.0,84,400.63,2,4,1,At risk
+1024,10.0,88,5309.92,2,4,5,At risk
+1205,10.0,94,2201.06,2,4,4,At risk
+1040,10.0,123,3163.89,2,5,5,At risk
+1807,10.0,129,4894.85,2,5,5,At risk
+1005,10.0,134,1755.96,2,5,4,At risk
+883,10.0,178,5313.2,2,5,5,At risk
+1892,10.0,180,3526.1,2,5,5,At risk
+1762,10.0,198,9282.34,2,5,5,At risk
+899,11.0,7,129.47,2,1,1,Lapsed
+89,11.0,8,158.13,2,1,1,Lapsed
+2461,11.0,8,429.48,2,1,1,Lapsed
+1902,11.0,9,634.28,2,1,2,Lapsed
+615,11.0,10,225.03,2,1,1,Lapsed
+729,11.0,12,616.03,2,1,2,Lapsed
+207,11.0,13,596.49,2,1,2,Lapsed
+1874,11.0,15,306.06,2,1,1,Lapsed
+801,11.0,16,767.04,2,1,2,Lapsed
+2042,11.0,17,2965.05,2,1,4,Lapsed
+1037,11.0,18,576.93,2,1,2,Lapsed
+1156,11.0,19,640.51,2,1,2,Lapsed
+794,11.0,19,1107.05,2,2,3,Lapsed
+2431,11.0,20,508.96,2,2,2,Lapsed
+796,11.0,22,205.22,2,2,1,Lapsed
+204,11.0,23,236.67,2,2,1,Lapsed
+502,11.0,23,925.55,2,2,2,Lapsed
+1112,11.0,24,880.27,2,2,2,Lapsed
+1570,11.0,27,1167.49,2,2,3,Lapsed
+148,11.0,28,844.54,2,2,2,Lapsed
+1092,11.0,29,648.31,2,2,2,Lapsed
+1223,11.0,32,1123.52,2,2,3,Lapsed
+92,11.0,33,967.26,2,2,3,Lapsed
+2231,11.0,36,1765.37,2,3,4,At risk
+1134,11.0,36,3322.3,2,3,5,At risk
+1123,11.0,41,2036.18,2,3,4,At risk
+1512,11.0,42,853.66,2,3,2,At risk
+2336,11.0,45,1102.23,2,3,3,At risk
+1926,11.0,45,1290.04,2,3,3,At risk
+1987,11.0,49,1499.55,2,3,3,At risk
+850,11.0,50,845.28,2,3,2,At risk
+256,11.0,55,5129.43,2,3,5,At risk
+1409,11.0,56,2936.45,2,3,4,At risk
+2148,11.0,62,1553.1,2,4,3,At risk
+293,11.0,63,2313.8,2,4,4,At risk
+1007,11.0,69,557.36,2,4,2,At risk
+2215,11.0,72,1479.6,2,4,3,At risk
+1375,11.0,75,2265.37,2,4,4,At risk
+1834,11.0,85,2249.41,2,4,4,At risk
+1393,11.0,117,3348.66,2,5,5,At risk
+1753,11.0,322,1906.72,2,5,4,At risk
+1986,12.0,7,93.74,2,1,1,Lapsed
+1342,12.0,8,117.87,2,1,1,Lapsed
+226,12.0,8,228.23,2,1,1,Lapsed
+1341,12.0,8,320.07,2,1,1,Lapsed
+1885,12.0,10,194.9,2,1,1,Lapsed
+154,12.0,10,322.33,2,1,1,Lapsed
+341,12.0,13,157.22,2,1,1,Lapsed
+1728,12.0,14,1201.99,2,1,3,Lapsed
+2197,12.0,15,149.77,2,1,1,Lapsed
+151,12.0,16,375.42,2,1,1,Lapsed
+1889,12.0,16,809.49,2,1,2,Lapsed
+2287,12.0,18,462.64,2,1,2,Lapsed
+1313,12.0,19,629.9,2,1,2,Lapsed
+570,12.0,19,690.7,2,1,2,Lapsed
+1329,12.0,19,991.62,2,2,3,Lapsed
+1173,12.0,20,379.24,2,2,1,Lapsed
+506,12.0,20,683.22,2,2,2,Lapsed
+662,12.0,20,791.21,2,2,2,Lapsed
+1127,12.0,21,1229.43,2,2,3,Lapsed
+2232,12.0,23,656.07,2,2,2,Lapsed
+2276,12.0,23,680.41,2,2,2,Lapsed
+2392,12.0,23,1003.91,2,2,3,Lapsed
+1008,12.0,27,375.68,2,2,1,Lapsed
+1715,12.0,27,487.23,2,2,2,Lapsed
+2153,12.0,27,673.1,2,2,2,Lapsed
+1832,12.0,29,470.42,2,2,2,Lapsed
+2000,12.0,32,313.25,2,2,1,Lapsed
+2029,12.0,32,1234.31,2,2,3,Lapsed
+1401,12.0,37,399.93,2,3,1,At risk
+35,12.0,37,563.85,2,3,2,At risk
+114,12.0,37,1365.94,2,3,3,At risk
+2099,12.0,38,481.26,2,3,2,At risk
+799,12.0,38,1269.37,2,3,3,At risk
+281,12.0,41,738.81,2,3,2,At risk
+1204,12.0,41,1182.74,2,3,3,At risk
+288,12.0,43,1404.24,2,3,3,At risk
+2401,12.0,44,548.46,2,3,2,At risk
+2456,12.0,44,746.83,2,3,2,At risk
+2310,12.0,48,1005.04,2,3,3,At risk
+1356,12.0,49,1192.6,2,3,3,At risk
+498,12.0,54,798.99,2,3,2,At risk
+1032,12.0,59,1741.0,2,4,4,At risk
+1972,12.0,62,1035.15,2,4,3,At risk
+2130,12.0,66,4322.34,2,4,5,At risk
+1881,12.0,81,1764.26,2,4,4,At risk
+699,12.0,81,5772.25,2,4,5,At risk
+2047,12.0,85,2908.35,2,4,4,At risk
+398,12.0,91,1185.41,2,4,3,At risk
+410,12.0,95,790.7,2,4,2,At risk
+1849,12.0,96,1373.84,2,4,3,At risk
+1850,12.0,139,4153.49,2,5,5,At risk
+445,12.0,142,1632.57,2,5,3,At risk
+143,12.0,261,4363.91,2,5,5,At risk
+1143,13.0,6,114.55,2,1,1,Lapsed
+1414,13.0,6,116.66,2,1,1,Lapsed
+1278,13.0,9,411.33,2,1,1,Lapsed
+1360,13.0,10,289.62,2,1,1,Lapsed
+2309,13.0,11,249.04,2,1,1,Lapsed
+260,13.0,14,241.5,2,1,1,Lapsed
+1255,13.0,14,294.57,2,1,1,Lapsed
+2014,13.0,15,599.69,2,1,2,Lapsed
+1140,13.0,18,1027.33,2,1,3,Lapsed
+829,13.0,20,1027.92,2,2,3,Lapsed
+1660,13.0,23,529.08,2,2,2,Lapsed
+1530,13.0,24,484.18,2,2,2,Lapsed
+2003,13.0,24,1138.7,2,2,3,Lapsed
+2222,13.0,26,1984.1,2,2,4,Lapsed
+2379,13.0,27,663.03,2,2,2,Lapsed
+857,13.0,27,2675.25,2,2,4,Lapsed
+1121,13.0,28,1322.11,2,2,3,Lapsed
+2243,13.0,31,3088.16,2,2,4,Lapsed
+1801,13.0,32,353.63,2,2,1,Lapsed
+2257,13.0,32,411.63,2,2,1,Lapsed
+1141,13.0,33,804.29,2,2,2,Lapsed
+849,13.0,33,2658.69,2,2,4,Lapsed
+459,13.0,40,805.35,2,3,2,At risk
+1939,13.0,43,1925.96,2,3,4,At risk
+1420,13.0,44,2552.02,2,3,4,At risk
+220,13.0,45,1494.25,2,3,3,At risk
+843,13.0,45,1705.33,2,3,3,At risk
+228,13.0,45,1709.39,2,3,3,At risk
+2120,13.0,47,1305.56,2,3,3,At risk
+960,13.0,50,1241.05,2,3,3,At risk
+1590,13.0,53,3854.65,2,3,5,At risk
+1091,13.0,54,2770.83,2,3,4,At risk
+727,13.0,55,2475.27,2,3,4,At risk
+1624,13.0,65,1369.42,2,4,3,At risk
+988,13.0,94,2436.37,2,4,4,At risk
+1989,13.0,97,1845.33,2,4,4,At risk
+1775,13.0,138,6385.94,2,5,5,At risk
+1390,13.0,167,4010.28,2,5,5,At risk
+942,13.0,174,4709.77,2,5,5,At risk
+2122,14.0,5,138.58,2,1,1,Lapsed
+103,14.0,14,197.29,2,1,1,Lapsed
+1377,14.0,14,411.75,2,1,1,Lapsed
+1596,14.0,16,1296.16,2,1,3,Lapsed
+1564,14.0,19,216.74,2,1,1,Lapsed
+268,14.0,19,529.11,2,1,2,Lapsed
+1257,14.0,22,1075.36,2,2,3,Lapsed
+1132,14.0,24,1100.93,2,2,3,Lapsed
+86,14.0,24,2568.81,2,2,4,Lapsed
+757,14.0,25,1244.68,2,2,3,Lapsed
+1404,14.0,26,476.7,2,2,2,Lapsed
+1949,14.0,41,1427.68,2,3,3,At risk
+1464,14.0,43,1510.46,2,3,3,At risk
+997,14.0,47,2476.95,2,3,4,At risk
+601,14.0,53,3232.68,2,3,5,At risk
+862,14.0,59,1329.62,2,4,3,At risk
+1709,14.0,60,1507.32,2,4,3,At risk
+81,14.0,63,1528.06,2,4,3,At risk
+2156,14.0,64,3575.97,2,4,5,At risk
+1887,14.0,67,658.98,2,4,2,At risk
+1745,14.0,68,1287.43,2,4,3,At risk
+2300,14.0,73,3046.04,2,4,4,At risk
+458,14.0,76,1021.72,2,4,3,At risk
+2112,14.0,82,3182.09,2,4,5,At risk
+1916,14.0,89,1500.38,2,4,3,At risk
+110,14.0,95,1741.86,2,4,4,At risk
+825,14.0,98,5561.12,2,5,5,At risk
+2236,14.0,126,1815.42,2,5,4,At risk
+2101,15.0,5,218.4,2,1,1,Lapsed
+1441,15.0,6,208.25,2,1,1,Lapsed
+1249,15.0,10,225.61,2,1,1,Lapsed
+724,15.0,12,234.3,2,1,1,Lapsed
+894,15.0,14,577.11,2,1,2,Lapsed
+1652,15.0,15,304.53,2,1,1,Lapsed
+1399,15.0,17,564.95,2,1,2,Lapsed
+549,15.0,19,443.41,2,1,1,Lapsed
+2320,15.0,20,330.49,2,2,1,Lapsed
+369,15.0,20,685.18,2,2,2,Lapsed
+1161,15.0,23,654.38,2,2,2,Lapsed
+62,15.0,25,270.31,2,2,1,Lapsed
+465,15.0,26,130.68,2,2,1,Lapsed
+1210,15.0,26,585.31,2,2,2,Lapsed
+197,15.0,38,1499.25,2,3,3,At risk
+1696,15.0,41,1637.6,2,3,3,At risk
+2496,15.0,41,2743.84,2,3,4,At risk
+716,15.0,51,732.29,2,3,2,At risk
+1673,15.0,51,2314.98,2,3,4,At risk
+1723,15.0,53,3017.8,2,3,4,At risk
+944,15.0,56,1572.45,2,3,3,At risk
+1263,15.0,62,2845.83,2,4,4,At risk
+1824,15.0,83,1679.95,2,4,3,At risk
+1955,15.0,90,4384.91,2,4,5,At risk
+1864,15.0,98,9922.95,2,5,5,At risk
+2385,15.0,267,5048.93,2,5,5,At risk
+1006,16.0,6,65.96,2,1,1,Lapsed
+2434,16.0,14,548.92,2,1,2,Lapsed
+2477,16.0,14,816.37,2,1,2,Lapsed
+519,16.0,15,297.49,2,1,1,Lapsed
+1196,16.0,15,1015.3,2,1,3,Lapsed
+2387,16.0,16,413.93,2,1,1,Lapsed
+1381,16.0,18,56.45,2,1,1,Lapsed
+837,16.0,18,502.38,2,1,2,Lapsed
+1843,16.0,24,417.61,2,2,1,Lapsed
+266,16.0,24,1350.88,2,2,3,Lapsed
+691,16.0,27,1210.13,2,2,3,Lapsed
+1220,16.0,28,336.57,2,2,1,Lapsed
+1522,16.0,30,785.88,2,2,2,Lapsed
+1135,16.0,32,338.11,2,2,1,Lapsed
+1049,16.0,33,462.46,2,2,2,Lapsed
+53,16.0,33,1112.94,2,2,3,Lapsed
+2138,16.0,39,1107.57,2,3,3,At risk
+1808,16.0,49,1206.63,2,3,3,At risk
+1392,16.0,50,997.87,2,3,3,At risk
+1662,16.0,50,5168.87,2,3,5,At risk
+734,16.0,53,882.68,2,3,2,At risk
+1675,16.0,64,3038.68,2,4,4,At risk
+546,16.0,66,1812.07,2,4,4,At risk
+844,16.0,77,2725.32,2,4,4,At risk
+2277,16.0,85,2476.23,2,4,4,At risk
+492,16.0,86,5040.65,2,4,5,At risk
+383,16.0,90,3438.59,2,4,5,At risk
+1659,16.0,101,2147.41,2,5,4,At risk
+660,16.0,104,4623.46,2,5,5,At risk
+1090,17.0,6,165.16,2,1,1,Lapsed
+1432,17.0,7,224.25,2,1,1,Lapsed
+2098,17.0,12,664.34,2,1,2,Lapsed
+1544,17.0,14,635.27,2,1,2,Lapsed
+1148,17.0,17,321.28,2,1,1,Lapsed
+1593,17.0,20,756.12,2,2,2,Lapsed
+1616,17.0,22,936.62,2,2,2,Lapsed
+508,17.0,24,578.78,2,2,2,Lapsed
+535,17.0,24,948.51,2,2,2,Lapsed
+1991,17.0,26,169.62,2,2,1,Lapsed
+2402,17.0,27,893.05,2,2,2,Lapsed
+1016,17.0,27,1983.4,2,2,4,Lapsed
+1814,17.0,30,2123.42,2,2,4,Lapsed
+1649,17.0,31,761.49,2,2,2,Lapsed
+2437,17.0,37,2635.03,2,3,4,At risk
+1265,17.0,38,914.55,2,3,2,At risk
+2485,17.0,42,676.24,2,3,2,At risk
+437,17.0,47,2336.22,2,3,4,At risk
+1191,17.0,58,1443.45,2,3,3,At risk
+1025,17.0,58,2605.39,2,3,4,At risk
+2340,17.0,89,1832.32,2,4,4,At risk
+1822,17.0,101,1488.58,2,5,3,At risk
+1078,17.0,125,3643.87,2,5,5,At risk
+2163,18.0,10,275.38,2,1,1,Lapsed
+1100,18.0,11,128.82,2,1,1,Lapsed
+625,18.0,16,386.07,2,1,1,Lapsed
+1335,18.0,21,648.23,2,2,2,Lapsed
+1802,18.0,30,3189.53,2,2,5,Lapsed
+1283,18.0,33,180.04,2,2,1,Lapsed
+2394,18.0,38,698.56,2,3,2,At risk
+122,18.0,40,465.47,2,3,2,At risk
+1925,18.0,47,1021.71,2,3,3,At risk
+2492,18.0,51,1387.07,2,3,3,At risk
+933,18.0,56,1826.29,2,3,4,At risk
+1094,18.0,56,4137.73,2,3,5,At risk
+669,18.0,62,4336.49,2,4,5,At risk
+109,18.0,74,2125.22,2,4,4,At risk
+1175,18.0,77,3960.74,2,4,5,At risk
+1855,19.0,7,177.98,2,1,1,Lapsed
+274,19.0,8,92.4,2,1,1,Lapsed
+1718,19.0,10,282.25,2,1,1,Lapsed
+2332,19.0,11,201.05,2,1,1,Lapsed
+629,19.0,14,147.49,2,1,1,Lapsed
+1736,19.0,15,242.62,2,1,1,Lapsed
+225,19.0,17,308.83,2,1,1,Lapsed
+187,19.0,19,204.63,2,1,1,Lapsed
+2323,19.0,19,424.43,2,1,1,Lapsed
+2230,19.0,22,713.39,2,2,2,Lapsed
+2187,19.0,23,1176.08,2,2,3,Lapsed
+1447,19.0,24,427.13,2,2,1,Lapsed
+1597,19.0,25,206.24,2,2,1,Lapsed
+507,19.0,27,696.62,2,2,2,Lapsed
+1625,19.0,29,371.94,2,2,1,Lapsed
+552,19.0,32,1492.73,2,2,3,Lapsed
+480,19.0,36,1371.15,2,3,3,At risk
+153,19.0,49,947.74,2,3,2,At risk
+1773,19.0,52,1803.73,2,3,4,At risk
+1781,19.0,53,1705.42,2,3,3,At risk
+666,19.0,68,728.4,2,4,2,At risk
+1087,19.0,83,1697.21,2,4,3,At risk
+296,20.0,6,64.22,2,1,1,Lapsed
+439,20.0,8,109.86,2,1,1,Lapsed
+1871,20.0,9,159.5,2,1,1,Lapsed
+344,20.0,11,513.39,2,1,2,Lapsed
+2428,20.0,13,208.18,2,1,1,Lapsed
+1310,20.0,18,460.96,2,1,2,Lapsed
+1661,20.0,21,669.75,2,2,2,Lapsed
+1766,20.0,23,345.3,2,2,1,Lapsed
+530,20.0,23,620.0,2,2,2,Lapsed
+2104,20.0,25,402.32,2,2,1,Lapsed
+2180,20.0,25,503.11,2,2,2,Lapsed
+1324,20.0,25,1552.54,2,2,3,Lapsed
+1860,20.0,27,257.68,2,2,1,Lapsed
+1065,20.0,29,2882.79,2,2,4,Lapsed
+777,20.0,30,1945.24,2,2,4,Lapsed
+129,20.0,32,364.36,2,2,1,Lapsed
+541,20.0,33,1131.17,2,2,3,Lapsed
+2352,20.0,34,863.97,2,2,2,Lapsed
+264,20.0,36,1062.9,2,3,3,At risk
+1456,20.0,39,818.52,2,3,2,At risk
+278,20.0,39,908.54,2,3,2,At risk
+2470,20.0,44,458.56,2,3,2,At risk
+836,20.0,51,1072.87,2,3,3,At risk
+576,20.0,69,1998.57,2,4,4,At risk
+583,20.0,103,1658.76,1,5,3,At risk
+1044,21.0,9,188.59,1,1,1,Lapsed
+951,21.0,9,288.75,1,1,1,Lapsed
+1589,21.0,11,188.22,1,1,1,Lapsed
+587,21.0,16,134.71,1,1,1,Lapsed
+4,21.0,18,442.14,1,1,1,Lapsed
+2248,21.0,18,573.4,1,1,2,Lapsed
+1368,21.0,19,1820.83,1,2,4,Lapsed
+1992,21.0,21,335.57,1,2,1,Lapsed
+1194,21.0,22,469.66,1,2,2,Lapsed
+44,21.0,23,718.41,1,2,2,Lapsed
+311,21.0,25,784.82,1,2,2,Lapsed
+2273,21.0,26,733.08,1,2,2,Lapsed
+1957,21.0,26,1387.17,1,2,3,Lapsed
+1147,21.0,28,2224.19,1,2,4,Lapsed
+877,21.0,37,1880.13,1,3,4,At risk
+2388,21.0,42,1077.71,1,3,3,At risk
+51,21.0,43,1917.15,1,3,4,At risk
+2077,21.0,45,810.87,1,3,2,At risk
+597,21.0,46,2203.1,1,3,4,At risk
+425,21.0,67,2450.98,1,4,4,At risk
+2301,21.0,77,2159.26,1,4,4,At risk
+544,21.0,89,963.59,1,4,3,At risk
+2226,21.0,491,7067.38,1,5,5,At risk
+315,22.0,5,92.17,1,1,1,Lapsed
+1882,22.0,6,38.89,1,1,1,Lapsed
+1209,22.0,7,138.12,1,1,1,Lapsed
+767,22.0,7,325.9,1,1,1,Lapsed
+340,22.0,14,587.52,1,1,2,Lapsed
+2152,22.0,15,90.47,1,1,1,Lapsed
+34,22.0,16,180.33,1,1,1,Lapsed
+137,22.0,18,301.9,1,1,1,Lapsed
+2327,22.0,20,725.49,1,2,2,Lapsed
+688,22.0,20,2519.78,1,2,4,Lapsed
+2046,22.0,22,227.89,1,2,1,Lapsed
+199,22.0,25,270.76,1,2,1,Lapsed
+2169,22.0,25,516.27,1,2,2,Lapsed
+721,22.0,28,297.61,1,2,1,Lapsed
+1514,22.0,36,1483.24,1,3,3,At risk
+1836,22.0,41,1281.12,1,3,3,At risk
+2107,22.0,55,2339.4,1,3,4,At risk
+1227,22.0,61,2735.82,1,4,4,At risk
+635,23.0,8,158.45,1,1,1,Lapsed
+1348,23.0,11,177.19,1,1,1,Lapsed
+422,23.0,16,764.59,1,1,2,Lapsed
+848,23.0,18,1706.32,1,1,3,Lapsed
+2089,23.0,20,84.49,1,2,1,Lapsed
+486,23.0,20,726.91,1,2,2,Lapsed
+2258,23.0,24,818.49,1,2,2,Lapsed
+182,23.0,26,836.12,1,2,2,Lapsed
+717,23.0,28,341.05,1,2,1,Lapsed
+2205,23.0,29,611.62,1,2,2,Lapsed
+1513,23.0,31,527.87,1,2,2,Lapsed
+134,23.0,39,2782.91,1,3,4,At risk
+2371,23.0,45,836.7,1,3,2,At risk
+175,23.0,48,1003.67,1,3,3,At risk
+752,23.0,51,1738.21,1,3,4,At risk
+2079,23.0,54,2242.91,1,3,4,At risk
+1647,24.0,5,12.2,1,1,1,Lapsed
+970,24.0,8,468.23,1,1,2,Lapsed
+1413,24.0,9,86.21,1,1,1,Lapsed
+2286,24.0,9,291.43,1,1,1,Lapsed
+309,24.0,13,1318.71,1,1,3,Lapsed
+1518,24.0,15,372.77,1,1,1,Lapsed
+1449,24.0,23,327.18,1,2,1,Lapsed
+1171,24.0,25,636.97,1,2,2,Lapsed
+2311,24.0,26,968.21,1,2,3,Lapsed
+2439,24.0,31,264.46,1,2,1,Lapsed
+533,24.0,37,1297.24,1,3,3,At risk
+1978,24.0,39,684.29,1,3,2,At risk
+140,24.0,49,860.69,1,3,2,At risk
+573,24.0,65,1772.11,1,4,4,At risk
+1117,24.0,89,1938.66,1,4,4,At risk
+1629,25.0,5,245.17,1,1,1,Lapsed
+1670,25.0,12,47.81,1,1,1,Lapsed
+773,25.0,13,414.81,1,1,1,Lapsed
+1734,25.0,14,119.33,1,1,1,Lapsed
+1502,25.0,16,526.17,1,1,2,Lapsed
+754,25.0,19,802.2,1,2,2,Lapsed
+1958,25.0,22,497.26,1,2,2,Lapsed
+1319,25.0,23,392.65,1,2,1,Lapsed
+772,25.0,26,174.09,1,2,1,Lapsed
+2390,25.0,29,550.7,1,2,2,Lapsed
+2239,25.0,31,1344.16,1,2,3,Lapsed
+195,25.0,35,1869.54,1,2,4,Lapsed
+1120,25.0,43,801.66,1,3,2,At risk
+1124,25.0,43,1313.23,1,3,3,At risk
+2202,26.0,7,176.92,1,1,1,Lapsed
+478,26.0,8,94.61,1,1,1,Lapsed
+791,26.0,12,241.67,1,1,1,Lapsed
+1574,26.0,18,2691.59,1,1,4,Lapsed
+1116,26.0,23,764.02,1,2,2,Lapsed
+2423,26.0,26,1606.31,1,2,3,Lapsed
+1746,26.0,33,1205.52,1,2,3,Lapsed
+569,26.0,48,2642.84,1,3,4,At risk
+1844,26.0,49,859.6,1,3,2,At risk
+318,26.0,52,589.04,1,3,2,At risk
+157,26.0,90,1452.84,1,4,3,At risk
+330,26.0,163,1480.35,1,5,3,At risk
+1606,27.0,10,440.2,1,1,1,Lapsed
+1700,27.0,15,1159.32,1,1,3,Lapsed
+1571,27.0,16,202.56,1,1,1,Lapsed
+1195,27.0,16,530.81,1,1,2,Lapsed
+1251,27.0,17,130.73,1,1,1,Lapsed
+188,27.0,18,1086.11,1,1,3,Lapsed
+2,27.0,20,1024.12,1,2,3,Lapsed
+203,27.0,24,594.02,1,2,2,Lapsed
+1600,27.0,31,406.8,1,2,1,Lapsed
+2299,27.0,34,1165.33,1,2,3,Lapsed
+961,27.0,34,1750.8,1,2,4,Lapsed
+563,27.0,40,1405.29,1,3,3,At risk
+2318,27.0,155,4637.79,1,5,5,At risk
+1893,28.0,8,208.95,1,1,1,Lapsed
+1733,28.0,10,592.81,1,1,2,Lapsed
+1239,28.0,10,807.32,1,1,2,Lapsed
+2192,28.0,11,90.4,1,1,1,Lapsed
+1237,28.0,11,607.47,1,1,2,Lapsed
+516,28.0,13,178.42,1,1,1,Lapsed
+1344,28.0,13,1505.45,1,1,3,Lapsed
+1063,28.0,14,267.63,1,1,1,Lapsed
+126,28.0,14,323.23,1,1,1,Lapsed
+626,28.0,20,425.27,1,2,1,Lapsed
+1051,28.0,21,694.24,1,2,2,Lapsed
+1200,28.0,21,1134.88,1,2,3,Lapsed
+1853,28.0,23,152.88,1,2,1,Lapsed
+1524,28.0,36,1729.42,1,3,3,At risk
+1363,28.0,41,2974.79,1,3,4,At risk
+1772,28.0,42,1047.19,1,3,3,At risk
+2113,28.0,42,1080.66,1,3,3,At risk
+428,28.0,52,1943.95,1,3,4,At risk
+639,28.0,75,666.03,1,4,2,At risk
+387,28.0,78,3204.95,1,4,5,At risk
+336,28.0,89,2502.39,1,4,4,At risk
+1396,28.0,120,3359.16,1,5,5,At risk
+504,29.0,6,391.64,1,1,1,Lapsed
+1435,29.0,8,307.44,1,1,1,Lapsed
+821,29.0,12,330.74,1,1,1,Lapsed
+1671,29.0,13,559.15,1,1,2,Lapsed
+646,29.0,17,742.57,1,1,2,Lapsed
+810,29.0,19,275.62,1,1,1,Lapsed
+431,29.0,22,351.66,1,2,1,Lapsed
+2206,29.0,25,259.19,1,2,1,Lapsed
+366,29.0,27,239.07,1,2,1,Lapsed
+1003,29.0,32,1404.43,1,2,3,Lapsed
+830,29.0,40,475.71,1,3,2,At risk
+1712,30.0,14,414.5,1,1,1,Lapsed
+763,30.0,15,1428.72,1,1,3,Lapsed
+1699,30.0,16,589.42,1,1,2,Lapsed
+2357,30.0,17,117.56,1,1,1,Lapsed
+1444,30.0,17,265.3,1,1,1,Lapsed
+1950,30.0,17,580.98,1,1,2,Lapsed
+1903,30.0,26,699.5,1,2,2,Lapsed
+2063,30.0,36,1200.35,1,3,3,At risk
+136,30.0,53,1887.12,1,3,4,At risk
+558,30.0,75,1353.2,1,4,3,At risk
+2095,30.0,98,2285.11,1,4,4,At risk
+2413,31.0,12,159.05,1,1,1,Lapsed
+1114,31.0,21,388.43,1,2,1,Lapsed
+2256,31.0,21,1048.07,1,2,3,Lapsed
+2433,31.0,23,487.06,1,2,2,Lapsed
+811,31.0,24,393.11,1,2,1,Lapsed
+170,31.0,27,1258.86,1,2,3,Lapsed
+697,31.0,38,1238.53,1,3,3,At risk
+854,32.0,15,174.77,1,1,1,Lapsed
+270,32.0,20,590.61,1,2,2,Lapsed
+100,32.0,21,1336.87,1,2,3,Lapsed
+145,32.0,24,689.53,1,2,2,Lapsed
+818,32.0,31,1187.64,1,2,3,Lapsed
+2356,32.0,33,580.86,1,2,2,Lapsed
+337,32.0,36,558.49,1,3,2,At risk
+912,33.0,6,643.63,1,1,2,Lapsed
+1480,33.0,16,106.03,1,1,1,Lapsed
+2397,33.0,30,898.87,1,2,2,Lapsed
+322,33.0,31,963.12,1,2,3,Lapsed
+1270,33.0,48,2177.07,1,3,4,At risk
+1359,33.0,50,711.33,1,3,2,At risk
+2203,33.0,51,2643.25,1,3,4,At risk
+2013,33.0,59,459.22,1,3,2,At risk
+1349,33.0,107,3034.87,1,5,4,At risk
+63,34.0,11,233.91,1,1,1,Lapsed
+1798,34.0,25,1528.78,1,2,3,Lapsed
+2464,34.0,30,697.44,1,2,2,Lapsed
+2429,34.0,34,883.96,1,2,2,Lapsed
+1139,34.0,43,4186.83,1,3,5,At risk
+2321,35.0,9,160.14,1,1,1,Lapsed
+1910,35.0,12,273.75,1,1,1,Lapsed
+1230,35.0,13,155.6,1,1,1,Lapsed
+887,35.0,25,334.31,1,2,1,Lapsed
+1611,35.0,25,383.32,1,2,1,Lapsed
+1614,35.0,46,331.84,1,3,1,At risk
+1422,36.0,6,239.81,1,1,1,Lapsed
+1498,36.0,11,455.81,1,1,2,Lapsed
+1898,36.0,15,152.55,1,1,1,Lapsed
+1657,36.0,20,224.21,1,2,1,Lapsed
+2293,36.0,28,1732.81,1,2,4,Lapsed
+738,36.0,46,1207.74,1,3,3,At risk
+391,36.0,47,1333.59,1,3,3,At risk
+643,37.0,17,787.8,1,1,2,Lapsed
+2135,37.0,26,437.77,1,2,1,Lapsed
+2033,37.0,80,1764.71,1,4,4,At risk
+2313,38.0,5,58.98,1,1,1,Lapsed
+107,38.0,8,190.77,1,1,1,Lapsed
+1486,38.0,8,349.65,1,1,1,Lapsed
+890,38.0,10,309.77,1,1,1,Lapsed
+2093,38.0,10,351.11,1,1,1,Lapsed
+66,38.0,11,144.22,1,1,1,Lapsed
+1380,38.0,14,268.28,1,1,1,Lapsed
+176,38.0,14,559.3,1,1,2,Lapsed
+1945,38.0,14,663.8,1,1,2,Lapsed
+1680,38.0,38,1417.86,1,3,3,At risk
+2151,39.0,5,91.11,1,1,1,Lapsed
+1741,39.0,6,58.91,1,1,1,Lapsed
+2191,39.0,8,589.41,1,1,2,Lapsed
+1093,39.0,9,162.25,1,1,1,Lapsed
+1721,39.0,11,290.46,1,1,1,Lapsed
+1108,39.0,12,208.12,1,1,1,Lapsed
+1126,39.0,14,1369.27,1,1,3,Lapsed
+778,39.0,25,402.34,1,2,1,Lapsed
+950,39.0,40,1414.93,1,3,3,At risk
+2178,39.0,112,2548.11,1,5,4,At risk
+1286,40.0,10,111.83,1,1,1,Lapsed
+407,40.0,20,335.08,1,2,1,Lapsed
+2146,40.0,20,825.74,1,2,2,Lapsed
+1027,40.0,22,536.71,1,2,2,Lapsed
+930,40.0,23,534.6,1,2,2,Lapsed
+331,40.0,48,874.58,1,3,2,At risk
+1012,40.0,60,935.72,1,4,2,At risk
+1311,41.0,6,258.5,1,1,1,Lapsed
+2353,41.0,7,247.74,1,1,1,Lapsed
+991,41.0,19,982.09,1,2,3,Lapsed
+360,41.0,22,179.44,1,2,1,Lapsed
+429,41.0,25,269.19,1,2,1,Lapsed
+1539,42.0,5,46.16,1,1,1,Lapsed
+169,42.0,6,58.87,1,1,1,Lapsed
+1780,42.0,10,275.03,1,1,1,Lapsed
+167,42.0,12,736.51,1,1,2,Lapsed
+1838,42.0,18,646.2,1,1,2,Lapsed
+1334,42.0,21,266.67,1,2,1,Lapsed
+965,42.0,23,1138.77,1,2,3,Lapsed
+2391,42.0,24,290.55,1,2,1,Lapsed
+265,42.0,24,1566.11,1,2,3,Lapsed
+1145,42.0,53,2797.15,1,3,4,At risk
+2027,42.0,85,1259.47,1,4,3,At risk
+2253,43.0,8,115.75,1,1,1,Lapsed
+1635,43.0,11,77.78,1,1,1,Lapsed
+1398,43.0,12,266.94,1,1,1,Lapsed
+1983,43.0,13,543.66,1,1,2,Lapsed
+813,43.0,14,929.76,1,1,2,Lapsed
+557,43.0,18,456.94,1,1,2,Lapsed
+146,43.0,19,483.54,1,1,2,Lapsed
+921,44.0,5,66.38,1,1,1,Lapsed
+966,44.0,7,120.13,1,1,1,Lapsed
+571,44.0,8,609.89,1,1,2,Lapsed
+2355,44.0,9,64.81,1,1,1,Lapsed
+892,44.0,10,215.91,1,1,1,Lapsed
+1573,44.0,16,79.25,1,1,1,Lapsed
+918,44.0,17,626.73,1,1,2,Lapsed
+833,44.0,17,938.79,1,1,2,Lapsed
+21,44.0,18,645.09,1,1,2,Lapsed
+229,44.0,27,599.14,1,2,2,Lapsed
+2419,44.0,32,508.82,1,2,2,Lapsed
+632,44.0,38,1537.33,1,3,3,At risk
+241,45.0,8,99.18,1,1,1,Lapsed
+1410,45.0,8,913.99,1,1,2,Lapsed
+312,45.0,24,1582.36,1,2,3,Lapsed
+144,45.0,53,1169.89,1,3,3,At risk
+2473,46.0,5,127.2,1,1,1,Lapsed
+2403,46.0,6,80.8,1,1,1,Lapsed
+487,46.0,6,89.84,1,1,1,Lapsed
+547,46.0,29,767.3,1,2,2,Lapsed
+1951,47.0,5,158.25,1,1,1,Lapsed
+555,47.0,8,148.23,1,1,1,Lapsed
+453,47.0,16,244.17,1,1,1,Lapsed
+1582,47.0,18,771.44,1,1,2,Lapsed
+2382,47.0,24,526.58,1,2,2,Lapsed
+748,47.0,46,1402.88,1,3,3,At risk
+202,48.0,15,223.48,1,1,1,Lapsed
+1238,49.0,11,1205.38,1,1,3,Lapsed
+1963,49.0,22,1032.35,1,2,3,Lapsed
+686,50.0,12,387.87,1,1,1,Lapsed
+1859,50.0,14,743.43,1,1,2,Lapsed
+1153,50.0,32,468.85,1,2,2,Lapsed
+607,50.0,38,816.74,1,3,2,At risk
+2157,51.0,5,197.57,1,1,1,Lapsed
+1038,51.0,154,840.84,1,5,2,At risk
+2436,52.0,6,230.42,1,1,1,Lapsed
+2045,52.0,9,220.05,1,1,1,Lapsed
+124,52.0,21,245.38,1,2,1,Lapsed
+1678,52.0,34,667.37,1,2,2,Lapsed
+1408,52.0,39,710.93,1,3,2,At risk
+726,52.0,41,1212.91,1,3,3,At risk
+1666,52.0,52,621.87,1,3,2,At risk
+1436,53.0,7,79.87,1,1,1,Lapsed
+1372,53.0,10,667.12,1,1,2,Lapsed
+531,53.0,17,505.23,1,1,2,Lapsed
+1632,53.0,32,1122.77,1,2,3,Lapsed
+1482,54.0,5,87.79,1,1,1,Lapsed
+382,54.0,8,113.97,1,1,1,Lapsed
+1243,54.0,9,204.39,1,1,1,Lapsed
+1118,54.0,10,640.44,1,1,2,Lapsed
+589,54.0,13,225.68,1,1,1,Lapsed
+190,54.0,15,383.58,1,1,1,Lapsed
+1799,54.0,32,276.84,1,2,1,Lapsed
+834,55.0,5,36.01,1,1,1,Lapsed
+168,56.0,18,260.99,1,1,1,Lapsed
+1825,56.0,25,939.35,1,2,2,Lapsed
+2268,57.0,9,251.33,1,1,1,Lapsed
+815,57.0,9,372.56,1,1,1,Lapsed
+181,57.0,14,652.96,1,1,2,Lapsed
+2118,57.0,17,762.89,1,1,2,Lapsed
+472,57.0,52,4148.13,1,3,5,At risk
+1403,57.0,66,1890.62,1,4,4,At risk
+565,58.0,11,187.46,1,1,1,Lapsed
+1583,58.0,11,199.74,1,1,1,Lapsed
+2096,58.0,12,918.38,1,1,2,Lapsed
+884,58.0,16,240.96,1,1,1,Lapsed
+1115,58.0,18,559.86,1,1,2,Lapsed
+2145,58.0,21,574.99,1,2,2,Lapsed
+1793,58.0,30,1189.09,1,2,3,Lapsed
+1617,58.0,48,2586.2,1,3,4,At risk
+827,59.0,5,76.45,1,1,1,Lapsed
+1013,59.0,11,175.32,1,1,1,Lapsed
+423,59.0,13,227.85,1,1,1,Lapsed
+5,59.0,20,299.67,1,2,1,Lapsed
+1913,59.0,25,530.69,1,2,2,Lapsed
+1959,59.0,67,3510.69,1,4,5,At risk
+1242,60.0,9,171.44,1,1,1,Lapsed
+2271,60.0,34,270.06,1,2,1,Lapsed
+1750,61.0,9,379.33,1,1,1,Lapsed
+835,61.0,10,174.92,1,1,1,Lapsed
+746,61.0,15,306.26,1,1,1,Lapsed
+1908,61.0,22,416.84,1,2,1,Lapsed
+963,61.0,23,1153.53,1,2,3,Lapsed
+881,61.0,82,2445.12,1,4,4,At risk
+783,62.0,6,116.93,1,1,1,Lapsed
+45,62.0,21,299.08,1,2,1,Lapsed
+642,62.0,25,1287.02,1,2,3,Lapsed
+1842,63.0,7,188.35,1,1,1,Lapsed
+1973,63.0,14,218.14,1,1,1,Lapsed
+1009,63.0,16,92.14,1,1,1,Lapsed
+1562,63.0,25,728.16,1,2,2,Lapsed
+141,63.0,27,181.61,1,2,1,Lapsed
+2081,64.0,11,352.4,1,1,1,Lapsed
+2373,64.0,91,1957.04,1,4,4,At risk
+1466,65.0,13,398.67,1,1,1,Lapsed
+2059,65.0,22,1042.25,1,2,3,Lapsed
+2411,65.0,43,1226.65,1,3,3,At risk
+2073,66.0,14,470.55,1,1,2,Lapsed
+2054,67.0,12,100.03,1,1,1,Lapsed
+2176,67.0,83,1392.01,1,4,3,At risk
+1022,68.0,9,64.74,1,1,1,Lapsed
+1235,68.0,10,508.43,1,1,2,Lapsed
+2329,68.0,40,982.44,1,3,3,At risk
+2155,69.0,5,94.1,1,1,1,Lapsed
+50,70.0,7,109.21,1,1,1,Lapsed
+2091,70.0,8,446.39,1,1,2,Lapsed
+2255,70.0,9,163.03,1,1,1,Lapsed
+1233,70.0,12,554.15,1,1,2,Lapsed
+333,70.0,17,650.02,1,1,2,Lapsed
+1301,70.0,39,611.53,1,3,2,At risk
+2316,72.0,9,198.05,1,1,1,Lapsed
+657,72.0,13,68.61,1,1,1,Lapsed
+2066,72.0,65,986.35,1,4,3,At risk
+163,73.0,7,22.28,1,1,1,Lapsed
+832,73.0,7,251.15,1,1,1,Lapsed
+1787,73.0,37,596.27,1,3,2,At risk
+2304,74.0,7,38.76,1,1,1,Lapsed
+416,74.0,7,530.27,1,1,2,Lapsed
+1641,76.0,22,268.24,1,2,1,Lapsed
+2167,76.0,32,700.22,1,2,2,Lapsed
+1725,77.0,8,297.11,1,1,1,Lapsed
+677,77.0,21,638.2,1,2,2,Lapsed
+620,78.0,8,117.21,1,1,1,Lapsed
+1646,78.0,24,386.73,1,2,1,Lapsed
+444,78.0,24,699.11,1,2,2,Lapsed
+990,79.0,7,72.71,1,1,1,Lapsed
+1603,79.0,9,434.16,1,1,1,Lapsed
+1828,79.0,12,755.76,1,1,2,Lapsed
+2491,79.0,33,323.96,1,2,1,Lapsed
+2219,80.0,6,170.96,1,1,1,Lapsed
+610,80.0,14,304.91,1,1,1,Lapsed
+2254,80.0,57,696.2,1,3,2,At risk
+682,80.0,113,2597.55,1,5,4,At risk
+917,81.0,5,210.15,1,1,1,Lapsed
+1468,81.0,35,1779.17,1,2,4,Lapsed
+509,82.0,9,160.03,1,1,1,Lapsed
+455,84.0,8,673.2,1,1,2,Lapsed
+2487,86.0,15,375.64,1,1,1,Lapsed
+974,86.0,20,871.76,1,2,2,Lapsed
+2103,87.0,9,122.93,1,1,1,Lapsed
+2092,89.0,56,790.75,1,3,2,At risk
+2308,90.0,19,429.96,1,1,1,Lapsed
+649,92.0,19,663.86,1,1,2,Lapsed
+1840,92.0,36,332.22,1,3,1,At risk
+749,92.0,51,636.36,1,3,2,At risk
+1031,92.0,87,2441.13,1,4,4,At risk
+323,93.0,5,35.64,1,1,1,Lapsed
+370,93.0,77,1885.92,1,4,4,At risk
+1756,94.0,23,938.1,1,2,2,Lapsed
+1150,97.0,13,834.91,1,1,2,Lapsed
+38,98.0,14,250.32,1,1,1,Lapsed
+93,98.0,49,1727.64,1,3,3,At risk
+1878,99.0,8,154.74,1,1,1,Lapsed
+1469,99.0,29,823.36,1,2,2,Lapsed
+760,100.0,38,1076.11,1,3,3,At risk
+861,103.0,16,534.01,1,1,2,Lapsed
+1079,104.0,16,280.42,1,1,1,Lapsed
+1232,104.0,16,366.71,1,1,1,Lapsed
+2480,105.0,16,782.57,1,1,2,Lapsed
+678,105.0,21,229.72,1,2,1,Lapsed
+1043,106.0,9,456.51,1,1,2,Lapsed
+2493,106.0,55,1164.48,1,3,3,At risk
+645,107.0,24,227.15,1,2,1,Lapsed
+234,111.0,5,54.99,1,1,1,Lapsed
+261,113.0,17,438.62,1,1,1,Lapsed
+584,114.0,22,327.22,1,2,1,Lapsed
+1448,117.0,68,1419.7,1,4,3,At risk
+1554,118.0,14,261.46,1,1,1,Lapsed
+1371,118.0,29,414.91,1,2,1,Lapsed
+452,119.0,16,556.63,1,1,2,Lapsed
+2105,123.0,7,142.76,1,1,1,Lapsed
+399,123.0,8,292.46,1,1,1,Lapsed
+704,125.0,8,66.53,1,1,1,Lapsed
+1915,127.0,9,204.85,1,1,1,Lapsed
+179,127.0,21,344.99,1,2,1,Lapsed
+1442,128.0,18,227.13,1,1,1,Lapsed
+529,129.0,19,796.1,1,1,2,Lapsed
+958,132.0,5,160.03,1,1,1,Lapsed
+572,132.0,6,154.14,1,1,1,Lapsed
+566,133.0,31,376.37,1,2,1,Lapsed
+775,135.0,14,398.82,1,1,1,Lapsed
+2128,136.0,19,186.73,1,1,1,Lapsed
+1974,139.0,89,2479.43,1,4,4,At risk
+2166,142.0,5,19.13,1,1,1,Lapsed
+1144,147.0,9,99.79,1,1,1,Lapsed
+2228,148.0,88,2810.47,1,4,4,At risk
+828,149.0,21,601.36,1,2,2,Lapsed
+1122,150.0,29,496.56,1,2,2,Lapsed
+1516,152.0,9,139.08,1,1,1,Lapsed
+1162,152.0,13,214.77,1,1,1,Lapsed
+54,154.0,5,51.37,1,1,1,Lapsed
+2463,154.0,6,123.44,1,1,1,Lapsed
+2106,157.0,10,384.85,1,1,1,Lapsed
+559,160.0,12,82.43,1,1,1,Lapsed
+174,164.0,10,474.22,1,1,2,Lapsed
+995,167.0,6,456.93,1,1,2,Lapsed
+2476,167.0,12,379.53,1,1,1,Lapsed
+1496,169.0,5,163.76,1,1,1,Lapsed
+120,171.0,8,131.37,1,1,1,Lapsed
+1601,171.0,8,565.51,1,1,2,Lapsed
+2350,176.0,20,776.29,1,2,2,Lapsed
+640,176.0,23,554.69,1,2,2,Lapsed
+634,180.0,22,923.65,1,2,2,Lapsed
+1322,183.0,9,87.18,1,1,1,Lapsed
+2212,185.0,29,136.94,1,2,1,Lapsed
+2051,187.0,28,336.59,1,2,1,Lapsed
+2443,195.0,68,1532.09,1,4,3,At risk
+252,199.0,5,30.95,1,1,1,Lapsed
+2384,205.0,5,128.57,1,1,1,Lapsed
+780,212.0,18,106.34,1,1,1,Lapsed
+1523,217.0,10,184.46,1,1,1,Lapsed
+1026,218.0,7,263.08,1,1,1,Lapsed
+1343,237.0,6,38.23,1,1,1,Lapsed
+1262,241.0,7,212.87,1,1,1,Lapsed
+96,244.0,11,318.95,1,1,1,Lapsed
+2164,249.0,12,554.24,1,1,2,Lapsed
+173,255.0,8,228.99,1,1,1,Lapsed
+1538,311.0,6,118.05,1,1,1,Lapsed
+1275,358.0,5,84.33,1,1,1,Lapsed

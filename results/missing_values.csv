@@ -1,0 +1,9 @@
+column_name,n_missing,n_rows
+products.department,0,92331
+products.product_category,540,92331
+products.product_type,528,92331
+products.package_size,30586,92331
+demographics.income,0,801
+demographics.home_ownership,233,801
+transactions.zero_or_negative_sales,11226,1469307
+transactions.product_not_in_catalogue,4836,1469307

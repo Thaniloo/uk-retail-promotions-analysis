@@ -1,0 +1,4 @@
+campaign_type,campaigns,avg_did_per_week,avg_lift_pct,significant_campaigns
+Type A,3.0,-0.528,-0.864,0.0
+Type B,13.0,-1.649,-2.072,0.0
+Type C,3.0,2.556,3.142,0.0

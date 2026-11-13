@@ -1,0 +1,6 @@
+data/completejourney.db
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+data/raw/*.rda
+data/raw/*.rds
